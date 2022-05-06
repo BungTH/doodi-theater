@@ -1,0 +1,3102 @@
+/* screen - rogue-one */
+
+.rogue-one {
+  background-color: var(--black);
+  height: 3494px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1960px;
+}
+
+.rogue-one .geed-uf-line-d-1-TY7P2g {
+  background-color: transparent;
+  height: 1313px;
+  left: -2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 1960px;
+}
+
+.rogue-one .geed-uf-line-d-2-TY7P2g {
+  background-color: transparent;
+  height: 2006px;
+  left: 30px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1488px;
+  width: 1941px;
+}
+
+.rogue-one .bottom-TY7P2g {
+  background-color: transparent;
+  height: 340px;
+  left: 44px;
+  position: absolute;
+  top: 3003px;
+  width: 1872px;
+}
+
+.rogue-one .view-nMe8uX {
+  background-color: var(--mist-gray);
+  height: 14px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 223px;
+  width: 1872px;
+}
+
+.rogue-one .icon-facebook-nMe8uX {
+  background-color: transparent;
+  height: 74px;
+  left: 1505px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 74px;
+}
+
+.rogue-one .icon-instagram-nMe8uX {
+  background-color: transparent;
+  height: 74px;
+  left: 1627px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 74px;
+}
+
+.rogue-one .icon-twitter-nMe8uX {
+  background-color: transparent;
+  height: 74px;
+  left: 1764px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 74px;
+}
+
+.rogue-one .group-29-nMe8uX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 113px;
+  left: 73px;
+  position: absolute;
+  top: 0px;
+  width: 393px;
+}
+
+.rogue-one .rectangle-66-LxnRbG {
+  background-color: var(--gold);
+  height: 113px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 391px;
+}
+
+.rogue-one .back-LxnRbG {
+  background-color: transparent;
+  height: auto;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.rogue-one .group-30-nMe8uX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 113px;
+  left: 1383px;
+  position: absolute;
+  top: 0px;
+  width: 393px;
+}
+
+.rogue-one .rectangle-66-llYDo4 {
+  background-color: var(--gold);
+  height: 113px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 391px;
+}
+
+.rogue-one .confirm-llYDo4 {
+  background-color: transparent;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.rogue-one .theater-TY7P2g {
+  background-color: transparent;
+  height: 384px;
+  left: 103px;
+  position: absolute;
+  top: 822px;
+  width: 1739px;
+}
+
+.rogue-one .theater-5Lpr19 {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.rogue-one .rectangle-55-5Lpr19 {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 75px;
+  width: 1727px;
+}
+
+.rogue-one .ya-theater-5Lpr19 {
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 156px;
+  width: auto;
+}
+
+.rogue-one .uan-theater-5Lpr19 {
+  background-color: transparent;
+  height: auto;
+  left: 778px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: auto;
+}
+
+.rogue-one .sun-theater-5Lpr19 {
+  background-color: transparent;
+  height: auto;
+  left: 1399px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 156px;
+  width: auto;
+}
+
+.rogue-one .bung-theater-5Lpr19 {
+  background-color: transparent;
+  height: auto;
+  left: 772px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 342px;
+  width: auto;
+}
+
+.rogue-one .cheetah-theater-5Lpr19 {
+  background-color: transparent;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 342px;
+  width: auto;
+}
+
+.rogue-one .view-TY7P2g {
+  background-color: transparent;
+  height: 260px;
+  left: 103px;
+  position: absolute;
+  top: 1325px;
+  width: 1733px;
+}
+
+.rogue-one .show-time-sMzWS6 {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.rogue-one .rectangle-56-sMzWS6 {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 88px;
+  width: 1727px;
+}
+
+.rogue-one .x5-sMzWS6 {
+  background-color: transparent;
+  height: 97px;
+  left: 1453px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.rogue-one .rectangle-57-ShbknF {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.rogue-one .x2130-ShbknF {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.rogue-one .x4-sMzWS6 {
+  background-color: transparent;
+  height: 97px;
+  left: 1094px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.rogue-one .rectangle-57-LGCOxb {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.rogue-one .x1900-LGCOxb {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.rogue-one .x3-sMzWS6 {
+  background-color: transparent;
+  height: 97px;
+  left: 725px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.rogue-one .rectangle-57-OvOeco {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.rogue-one .x1630-OvOeco {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.rogue-one .x2-sMzWS6 {
+  background-color: transparent;
+  height: 97px;
+  left: 383px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.rogue-one .rectangle-57-lgI51z {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.rogue-one .x1400-lgI51z {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.rogue-one .x1-sMzWS6 {
+  background-color: transparent;
+  height: 97px;
+  left: 14px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.rogue-one .rectangle-57-oCxrSm {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.rogue-one .x1130-oCxrSm {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.rogue-one .top-TY7P2g {
+  background-color: transparent;
+  height: 502px;
+  left: 103px;
+  position: absolute;
+  top: 252px;
+  width: 1300px;
+}
+
+.rogue-one .rouge-one-JCcgOV {
+  background-color: transparent;
+  height: auto;
+  left: 425px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: 766px;
+}
+
+.rogue-one .rectangle-38-JCcgOV {
+  background-color: transparent;
+  height: 465px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+
+.rogue-one .group-19-JCcgOV {
+  background-color: transparent;
+  height: 136px;
+  left: 425px;
+  position: absolute;
+  top: 366px;
+  width: 402px;
+}
+
+.rogue-one .rectangle-49-yB7jNC {
+  background-color: var(--gold);
+  height: 100px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.rogue-one .available-show-time-yB7jNC {
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: 395px;
+}
+
+.rogue-one .genre-action-sci-fi-JCcgOV {
+  background-color: transparent;
+  height: auto;
+  left: 420px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  width: 721px;
+}
+
+.rogue-one .movie-description-se-JCcgOV {
+  background-color: transparent;
+  height: auto;
+  left: 420px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 173px;
+  width: 874px;
+}
+
+.rogue-one .navbar-TY7P2g {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: -29px;
+  width: 1971px;
+}
+
+.rogue-one .nav_background-tfFA29 {
+  background-color: var(--tundora-2);
+  height: 101px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 1963px;
+}
+
+.rogue-one .promotions-tfFA29 {
+  background-color: transparent;
+  height: auto;
+  left: 705px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 255px;
+}
+
+.rogue-one .rectangle-36-tfFA29 {
+  background-color: var(--tundora);
+  height: 94px;
+  left: 185px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 123px;
+}
+
+.rogue-one .main-tfFA29 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 109px;
+}
+
+.rogue-one .rectangle-37-tfFA29 {
+  background-color: var(--tundora);
+  height: 64px;
+  left: 329px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.rogue-one .theater-tfFA29 {
+  background-color: transparent;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 176px;
+}
+
+.rogue-one .movie-tfFA29 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 132px;
+}
+
+.rogue-one .ellipse-1-tfFA29 {
+  background-color: var(--mist-gray);
+  border-radius: 58.5px/43px;
+  cursor: pointer;
+  height: 86px;
+  left: 1830px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 117px;
+}
+
+.rogue-one .movie-logo-tfFA29 {
+  background-color: transparent;
+  height: 135px;
+  left: 10px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 164px;
+}
+
+.rogue-one .seat-TY7P2g {
+  background-color: transparent;
+  height: 1065px;
+  left: 110px;
+  position: absolute;
+  top: 1689px;
+  width: 1734px;
+}
+
+.rogue-one .seat-f0lwEN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.rogue-one .rectangle-56-f0lwEN {
+  background-color: transparent;
+  height: 14px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 91px;
+  width: 1727px;
+}
+
+.rogue-one .seat-normal-1-f0lwEN {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 172px;
+  width: 1692px;
+}
+
+.rogue-one .f1-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-prdEfB {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f1-prdEfB {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f2-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-U5UPAS {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f2-U5UPAS {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f3-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-1ZVhnT {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f3-1ZVhnT {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f4-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-KvipLF {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f4-KvipLF {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f5-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-64-jgpvTg {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f5-jgpvTg {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f6-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .f6-NPBEqv {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f6-PviHUX {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f7-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-cgIz5t {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f7-cgIz5t {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f8-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-61-bGemVs {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f8-bGemVs {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f9-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-62-sBdBTP {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f9-sBdBTP {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.rogue-one .f10-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-63-yFMzip {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f10-yFMzip {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f11-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-59-PsJMCz {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f11-PsJMCz {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .f12-CBf90P {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-fCVSA5 {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .f12-fCVSA5 {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .seat-normal-2-f0lwEN {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 332px;
+  width: 1692px;
+}
+
+.rogue-one .e1-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-xfKroT {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e1-xfKroT {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e2-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-tsvOxW {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e2-tsvOxW {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e3-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-BxNP5f {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e3-BxNP5f {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e4-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-icLhd1 {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e-icLhd1 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e5-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-64-Dxa56r {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e5-Dxa56r {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e6-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .f6-0FQpry {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e6-0FQpry {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e7-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-a19KaS {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e-a19KaS {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e8-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-61-NLT46O {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e8-NLT46O {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e9-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-62-fKDH9w {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e9-fKDH9w {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.rogue-one .e10-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-63-r5yD6x {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e10-r5yD6x {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e11-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-59-a9iO0p {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e11-a9iO0p {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .e12-h6xaoy {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-mu6NO5 {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .e12-mu6NO5 {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .seat-normal-3-f0lwEN {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 492px;
+  width: 1692px;
+}
+
+.rogue-one .d1-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-cmsBnT {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d1-cmsBnT {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d2-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-MU7cBV {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d2-MU7cBV {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d3-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-JyDxM4 {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d3-JyDxM4 {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d4-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-LRsICK {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d4-LRsICK {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d5-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-64-7bceTo {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d5-7bceTo {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d6-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .f6-5rjjQR {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d6-5rjjQR {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d7-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-gI99sY {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d-gI99sY {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d8-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-61-9foU4H {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d8-9foU4H {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d9-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-62-u5s8bD {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d9-u5s8bD {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.rogue-one .d10-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-63-uNeqeY {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d10-uNeqeY {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d11-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-59-BcAbmg {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d11-BcAbmg {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .d12-MWetb1 {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-7bo8mc {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .d13-7bo8mc {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .seat-normal-4-f0lwEN {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 652px;
+  width: 1692px;
+}
+
+.rogue-one .c1-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-xPBe4Q {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c1-xPBe4Q {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c2-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-BLyxUo {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c2-BLyxUo {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c3-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-WwXIKh {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c3-WwXIKh {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c4-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-iMvWQK {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c4-iMvWQK {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c5-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-64-qkfmD2 {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c5-qkfmD2 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c6-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .f6-ygnVTB {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c6-ygnVTB {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c7-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-NxOEA2 {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c7-NxOEA2 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c8-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-61-GvCn4i {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c8-GvCn4i {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c9-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-62-HYAChF {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c9-HYAChF {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.rogue-one .c10-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-63-feyNhD {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c10-feyNhD {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c11-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-59-uQxnNv {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c11-uQxnNv {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .c12-xKSrrx {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-Ki27rh {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .c12-Ki27rh {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .seat-normal-5-f0lwEN {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 812px;
+  width: 1692px;
+}
+
+.rogue-one .b1-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-w5otSi {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b1-w5otSi {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b2-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-ZLq27J {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b2-ZLq27J {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b3-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-coiWhZ {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b3-coiWhZ {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b4-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-2EHYFH {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b4-2EHYFH {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b5-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-64-M6A0io {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b5-M6A0io {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b6-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .f6-xD6zXI {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b6-xD6zXI {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b7-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-ETxBAL {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b7-ETxBAL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b8-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-61-14NiJf {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b8-14NiJf {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b9-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-62-SGZuyJ {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b9-SGZuyJ {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.rogue-one .b10-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-63-EOn7xZ {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b10-EOn7xZ {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b11-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-59-Wd6fNZ {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b11-Wd6fNZ {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .b12-8ud2w9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-DRUxYf {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .b12-DRUxYf {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .seat-normal-6-f0lwEN {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 972px;
+  width: 1692px;
+}
+
+.rogue-one .a1-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-axKd8N {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a1-axKd8N {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a2-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-cQxxsa {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a2-cQxxsa {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a3-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-lzom21 {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a3-lzom21 {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a4-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-58-tTdDoB {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a4-tTdDoB {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a5-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-64-SYrooS {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a5-SYrooS {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a6-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .f6-vCNkm9 {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a6-vCNkm9 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a7-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-goJkNa {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a7-goJkNa {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a8-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-61-xBgqeh {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a8-xBgqeh {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a9-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-62-Y7MTxk {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a9-Y7MTxk {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.rogue-one .a10-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-63-4CYI1Y {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a10-4CYI1Y {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a11-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-59-Wyps8E {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a11-Wyps8E {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.rogue-one .a12-1ldCV9 {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.rogue-one .rectangle-60-YLoSpN {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.rogue-one .a12-YLoSpN {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}

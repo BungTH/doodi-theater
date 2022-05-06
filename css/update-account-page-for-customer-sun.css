@@ -1,0 +1,363 @@
+/* screen - update-account-page-for-customer-sun */
+
+.update-account-page-for-customer-sun {
+  background-color: var(--black);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1960px;
+}
+
+.update-account-page-for-customer-sun .navbar-Q9zfHE {
+  background-color: transparent;
+  height: 164px;
+  left: -3px;
+  position: absolute;
+  top: -25px;
+  width: 1971px;
+}
+
+.update-account-page-for-customer-sun .nav_background-OsHBit {
+  background-color: var(--tundora-2);
+  height: 101px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 1963px;
+}
+
+.update-account-page-for-customer-sun .promotions-OsHBit {
+  background-color: transparent;
+  height: auto;
+  left: 705px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 255px;
+}
+
+.update-account-page-for-customer-sun .rectangle-36-OsHBit {
+  background-color: var(--tundora);
+  height: 94px;
+  left: 185px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 123px;
+}
+
+.update-account-page-for-customer-sun .main-OsHBit {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 109px;
+}
+
+.update-account-page-for-customer-sun .rectangle-37-OsHBit {
+  background-color: var(--tundora);
+  height: 64px;
+  left: 329px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.update-account-page-for-customer-sun .theater-OsHBit {
+  background-color: transparent;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 176px;
+}
+
+.update-account-page-for-customer-sun .movie-OsHBit {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 132px;
+}
+
+.update-account-page-for-customer-sun .ellipse-1-OsHBit {
+  background-color: var(--mist-gray);
+  border-radius: 58.5px/43px;
+  cursor: pointer;
+  height: 86px;
+  left: 1830px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 117px;
+}
+
+.update-account-page-for-customer-sun .movie-logo-OsHBit {
+  background-color: transparent;
+  height: 139px;
+  left: 10px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 164px;
+}
+
+.update-account-page-for-customer-sun .background-picture-Q9zfHE {
+  background-color: transparent;
+  height: 924px;
+  left: 16px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 1928px;
+}
+
+.update-account-page-for-customer-sun .group-20-Q9zfHE {
+  background-color: transparent;
+  height: 876px;
+  left: 330px;
+  position: absolute;
+  top: 111px;
+  width: 1315px;
+}
+
+.update-account-page-for-customer-sun .rectangle-29-earEdh {
+  background-color: var(--tundora);
+  height: 849px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 1301px;
+}
+
+.update-account-page-for-customer-sun .group-37-earEdh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 66px;
+  left: 583px;
+  position: absolute;
+  top: 736px;
+  width: 132px;
+}
+
+.update-account-page-for-customer-sun .create-account-button-SU3tv2 {
+  background-color: var(--gold-tips);
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+
+.update-account-page-for-customer-sun .update-SU3tv2 {
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 124px;
+}
+
+.update-account-page-for-customer-sun .gender-earEdh {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 663px;
+  width: 255px;
+}
+
+.update-account-page-for-customer-sun .gender-select-earEdh {
+  background-color: var(--mist-gray);
+  height: 28px;
+  left: 544px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 662px;
+  width: 233px;
+}
+
+.update-account-page-for-customer-sun .fill-in-password-earEdh {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 681px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 442px;
+  width: 565px;
+}
+
+.update-account-page-for-customer-sun .fill-in-password-4h6yfP {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 681px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 326px;
+  width: 565px;
+}
+
+.update-account-page-for-customer-sun .password-earEdh {
+  background-color: transparent;
+  height: auto;
+  left: 661px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 285px;
+  width: 172px;
+}
+
+.update-account-page-for-customer-sun .fill-in-last-name-earEdh {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 62px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 442px;
+  width: 565px;
+}
+
+.update-account-page-for-customer-sun .last-name-earEdh {
+  background-color: transparent;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 401px;
+  width: 172px;
+}
+
+.update-account-page-for-customer-sun .fill-in-first-name-earEdh {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 62px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 326px;
+  width: 565px;
+}
+
+.update-account-page-for-customer-sun .first-name-earEdh {
+  background-color: transparent;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 285px;
+  width: 172px;
+}
+
+.update-account-page-for-customer-sun .confirm-password-earEdh {
+  background-color: transparent;
+  height: auto;
+  left: 677px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 401px;
+  width: 254px;
+}
+
+.update-account-page-for-customer-sun .fill-in-username-earEdh {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 367px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 217px;
+  width: 565px;
+}
+
+.update-account-page-for-customer-sun .username-earEdh {
+  background-color: transparent;
+  height: auto;
+  left: 565px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  width: 172px;
+}
+
+.update-account-page-for-customer-sun .update-information-earEdh {
+  background-color: transparent;
+  height: auto;
+  left: 460px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  width: 379px;
+}
+
+.update-account-page-for-customer-sun .movie-logo-earEdh {
+  background-color: transparent;
+  height: 164px;
+  left: 566px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+
+.update-account-page-for-customer-sun .polygon-4-Q9zfHE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 1103px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 776px;
+  width: 25px;
+}

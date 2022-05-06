@@ -1,0 +1,304 @@
+/* screen - staff-schedule-for-staff-sun */
+
+.staff-schedule-for-staff-sun {
+  background-color: var(--white);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1960px;
+}
+
+.staff-schedule-for-staff-sun .navbar-XRYzHX {
+  background-color: transparent;
+  height: 164px;
+  left: -3px;
+  position: absolute;
+  top: -25px;
+  width: 1963px;
+}
+
+.staff-schedule-for-staff-sun .nav_background-2T2hGH {
+  background-color: var(--tundora-2);
+  height: 101px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 1963px;
+}
+
+.staff-schedule-for-staff-sun .ellipse-1-2T2hGH {
+  background-color: var(--mist-gray);
+  border-radius: 58.5px/43px;
+  cursor: pointer;
+  height: 86px;
+  left: 1830px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 117px;
+}
+
+.staff-schedule-for-staff-sun .movie-logo-2T2hGH {
+  background-color: transparent;
+  height: 139px;
+  left: 10px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 164px;
+}
+
+.staff-schedule-for-staff-sun .group-46-2T2hGH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 503px;
+  position: absolute;
+  top: 47px;
+  width: 331px;
+}
+
+.staff-schedule-for-staff-sun .rectangle-75-QQYLhC {
+  background-color: var(--mist-gray);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.staff-schedule-for-staff-sun .staff-information-QQYLhC {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 317px;
+}
+
+.staff-schedule-for-staff-sun .group-45-2T2hGH {
+  background-color: transparent;
+  height: 71px;
+  left: 238px;
+  position: absolute;
+  top: 46px;
+  width: 212px;
+}
+
+.staff-schedule-for-staff-sun .rectangle-74-R8Afoc {
+  background-color: var(--mist-gray);
+  height: 58px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.staff-schedule-for-staff-sun .schedule-R8Afoc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 210px;
+}
+
+.staff-schedule-for-staff-sun .line-7-XRYzHX {
+  background-color: transparent;
+  height: 708px;
+  left: 305px;
+  position: absolute;
+  top: 226px;
+  width: 1px;
+}
+
+.staff-schedule-for-staff-sun .group-33-XRYzHX {
+  background-color: transparent;
+  height: 708px;
+  left: 193px;
+  position: absolute;
+  top: 226px;
+  width: 1585px;
+}
+
+.staff-schedule-for-staff-sun .rectangle-73-Wt4qcJ {
+  background-color: var(--mist-gray);
+  height: 708px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1571px;
+}
+
+.staff-schedule-for-staff-sun .line-8-Wt4qcJ {
+  background-color: transparent;
+  height: 708px;
+  left: 216px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.staff-schedule-for-staff-sun .line-9-Wt4qcJ {
+  background-color: transparent;
+  height: 708px;
+  left: 434px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.staff-schedule-for-staff-sun .line-10-Wt4qcJ {
+  background-color: transparent;
+  height: 708px;
+  left: 656px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.staff-schedule-for-staff-sun .line-11-Wt4qcJ {
+  background-color: transparent;
+  height: 708px;
+  left: 883px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.staff-schedule-for-staff-sun .line-12-Wt4qcJ {
+  background-color: transparent;
+  height: 708px;
+  left: 1121px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.staff-schedule-for-staff-sun .line-13-Wt4qcJ {
+  background-color: transparent;
+  height: 708px;
+  left: 1349px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.staff-schedule-for-staff-sun .monday-Wt4qcJ {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 172px;
+}
+
+.staff-schedule-for-staff-sun .tuesday-Wt4qcJ {
+  background-color: transparent;
+  height: auto;
+  left: 240px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 172px;
+}
+
+.staff-schedule-for-staff-sun .wednesday-Wt4qcJ {
+  background-color: transparent;
+  height: auto;
+  left: 459px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 172px;
+}
+
+.staff-schedule-for-staff-sun .thrusday-Wt4qcJ {
+  background-color: transparent;
+  height: auto;
+  left: 672px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 172px;
+}
+
+.staff-schedule-for-staff-sun .friday-Wt4qcJ {
+  background-color: transparent;
+  height: auto;
+  left: 917px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: 172px;
+}
+
+.staff-schedule-for-staff-sun .saturday-Wt4qcJ {
+  background-color: transparent;
+  height: auto;
+  left: 1150px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 172px;
+}
+
+.staff-schedule-for-staff-sun .sunday-Wt4qcJ {
+  background-color: transparent;
+  height: auto;
+  left: 1371px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 172px;
+}
+
+.staff-schedule-for-staff-sun .staff-schedule-XRYzHX {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+  width: 381px;
+}

@@ -1,0 +1,3102 @@
+/* screen - avenger-end-game */
+
+.avenger-end-game {
+  background-color: var(--black);
+  height: 3494px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1960px;
+}
+
+.avenger-end-game .geed-uf-line-d-1-qI91ZA {
+  background-color: transparent;
+  height: 1313px;
+  left: -2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 1960px;
+}
+
+.avenger-end-game .geed-uf-line-d-2-qI91ZA {
+  background-color: transparent;
+  height: 2006px;
+  left: 30px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1488px;
+  width: 1941px;
+}
+
+.avenger-end-game .bottom-qI91ZA {
+  background-color: transparent;
+  height: 340px;
+  left: 44px;
+  position: absolute;
+  top: 3003px;
+  width: 1872px;
+}
+
+.avenger-end-game .view-XOMjZj {
+  background-color: var(--mist-gray);
+  height: 14px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 223px;
+  width: 1872px;
+}
+
+.avenger-end-game .icon-facebook-XOMjZj {
+  background-color: transparent;
+  height: 74px;
+  left: 1505px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 74px;
+}
+
+.avenger-end-game .icon-instagram-XOMjZj {
+  background-color: transparent;
+  height: 74px;
+  left: 1627px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 74px;
+}
+
+.avenger-end-game .icon-twitter-XOMjZj {
+  background-color: transparent;
+  height: 74px;
+  left: 1764px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 74px;
+}
+
+.avenger-end-game .group-29-XOMjZj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 113px;
+  left: 73px;
+  position: absolute;
+  top: 0px;
+  width: 393px;
+}
+
+.avenger-end-game .rectangle-66-yY1lWl {
+  background-color: var(--gold);
+  height: 113px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 391px;
+}
+
+.avenger-end-game .back-yY1lWl {
+  background-color: transparent;
+  height: auto;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.avenger-end-game .group-30-XOMjZj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 113px;
+  left: 1383px;
+  position: absolute;
+  top: 0px;
+  width: 393px;
+}
+
+.avenger-end-game .rectangle-66-MpVk2m {
+  background-color: var(--gold);
+  height: 113px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 391px;
+}
+
+.avenger-end-game .confirm-MpVk2m {
+  background-color: transparent;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.avenger-end-game .theater-qI91ZA {
+  background-color: transparent;
+  height: 384px;
+  left: 103px;
+  position: absolute;
+  top: 822px;
+  width: 1739px;
+}
+
+.avenger-end-game .theater-u7c6Ot {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.avenger-end-game .rectangle-55-u7c6Ot {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 75px;
+  width: 1727px;
+}
+
+.avenger-end-game .ya-theater-u7c6Ot {
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 156px;
+  width: auto;
+}
+
+.avenger-end-game .uan-theater-u7c6Ot {
+  background-color: transparent;
+  height: auto;
+  left: 778px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: auto;
+}
+
+.avenger-end-game .sun-theater-u7c6Ot {
+  background-color: transparent;
+  height: auto;
+  left: 1399px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 156px;
+  width: auto;
+}
+
+.avenger-end-game .bung-theater-u7c6Ot {
+  background-color: transparent;
+  height: auto;
+  left: 772px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 342px;
+  width: auto;
+}
+
+.avenger-end-game .cheetah-theater-u7c6Ot {
+  background-color: transparent;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 342px;
+  width: auto;
+}
+
+.avenger-end-game .view-qI91ZA {
+  background-color: transparent;
+  height: 260px;
+  left: 103px;
+  position: absolute;
+  top: 1325px;
+  width: 1733px;
+}
+
+.avenger-end-game .show-time-8iY2zC {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.avenger-end-game .rectangle-56-8iY2zC {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 88px;
+  width: 1727px;
+}
+
+.avenger-end-game .x5-8iY2zC {
+  background-color: transparent;
+  height: 97px;
+  left: 1453px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.avenger-end-game .rectangle-57-2BwiMq {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.avenger-end-game .x2130-2BwiMq {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.avenger-end-game .x4-8iY2zC {
+  background-color: transparent;
+  height: 97px;
+  left: 1094px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.avenger-end-game .rectangle-57-Mtjx4f {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.avenger-end-game .x1900-Mtjx4f {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.avenger-end-game .x3-8iY2zC {
+  background-color: transparent;
+  height: 97px;
+  left: 725px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.avenger-end-game .rectangle-57-UTUe2G {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.avenger-end-game .x1630-UTUe2G {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.avenger-end-game .x2-8iY2zC {
+  background-color: transparent;
+  height: 97px;
+  left: 383px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.avenger-end-game .rectangle-57-39JWEx {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.avenger-end-game .x1400-39JWEx {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.avenger-end-game .x1-8iY2zC {
+  background-color: transparent;
+  height: 97px;
+  left: 14px;
+  position: absolute;
+  top: 163px;
+  width: 280px;
+}
+
+.avenger-end-game .rectangle-57-i08pZ6 {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 97px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 278px;
+}
+
+.avenger-end-game .x1130-i08pZ6 {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.avenger-end-game .top-qI91ZA {
+  background-color: transparent;
+  height: 502px;
+  left: 103px;
+  position: absolute;
+  top: 252px;
+  width: 1300px;
+}
+
+.avenger-end-game .avenger-end-game-Nx5Kpv {
+  background-color: transparent;
+  height: auto;
+  left: 425px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: 766px;
+}
+
+.avenger-end-game .rectangle-38-Nx5Kpv {
+  background-color: transparent;
+  height: 465px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+
+.avenger-end-game .group-19-Nx5Kpv {
+  background-color: transparent;
+  height: 136px;
+  left: 425px;
+  position: absolute;
+  top: 366px;
+  width: 402px;
+}
+
+.avenger-end-game .rectangle-49-k6G0vH {
+  background-color: var(--gold);
+  height: 100px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.avenger-end-game .available-show-time-k6G0vH {
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: 395px;
+}
+
+.avenger-end-game .genre-action-superhe-Nx5Kpv {
+  background-color: transparent;
+  height: auto;
+  left: 420px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  width: 672px;
+}
+
+.avenger-end-game .movie-description-af-Nx5Kpv {
+  background-color: transparent;
+  height: auto;
+  left: 420px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 173px;
+  width: 874px;
+}
+
+.avenger-end-game .navbar-qI91ZA {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: -29px;
+  width: 1971px;
+}
+
+.avenger-end-game .nav_background-Me3LES {
+  background-color: var(--tundora-2);
+  height: 101px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 1963px;
+}
+
+.avenger-end-game .promotions-Me3LES {
+  background-color: transparent;
+  height: auto;
+  left: 705px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 255px;
+}
+
+.avenger-end-game .rectangle-36-Me3LES {
+  background-color: var(--tundora);
+  height: 94px;
+  left: 185px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 123px;
+}
+
+.avenger-end-game .main-Me3LES {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 109px;
+}
+
+.avenger-end-game .rectangle-37-Me3LES {
+  background-color: var(--tundora);
+  height: 64px;
+  left: 329px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.avenger-end-game .theater-Me3LES {
+  background-color: transparent;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 176px;
+}
+
+.avenger-end-game .movie-Me3LES {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 132px;
+}
+
+.avenger-end-game .ellipse-1-Me3LES {
+  background-color: var(--mist-gray);
+  border-radius: 58.5px/43px;
+  cursor: pointer;
+  height: 86px;
+  left: 1830px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 117px;
+}
+
+.avenger-end-game .movie-logo-Me3LES {
+  background-color: transparent;
+  height: 135px;
+  left: 10px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 164px;
+}
+
+.avenger-end-game .seat-qI91ZA {
+  background-color: transparent;
+  height: 1065px;
+  left: 110px;
+  position: absolute;
+  top: 1689px;
+  width: 1734px;
+}
+
+.avenger-end-game .seat-vQb0Fp {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.avenger-end-game .rectangle-56-vQb0Fp {
+  background-color: transparent;
+  height: 14px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 91px;
+  width: 1727px;
+}
+
+.avenger-end-game .seat-normal-1-vQb0Fp {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 172px;
+  width: 1692px;
+}
+
+.avenger-end-game .f1-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-I3bveM {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f1-I3bveM {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f2-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-Tj1xqn {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f2-Tj1xqn {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f3-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-ri8Hwl {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f3-ri8Hwl {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f4-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-z7P7le {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f4-z7P7le {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f5-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-64-6OMsfY {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f5-6OMsfY {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f6-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .f6-lLGY6z {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f6-qxZEJi {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f7-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-NIxXwi {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f7-NIxXwi {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f8-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-61-zGBnxv {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f8-zGBnxv {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f9-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-62-EjGi0S {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f9-EjGi0S {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.avenger-end-game .f10-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-63-xjBWKK {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f10-xjBWKK {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f11-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-59-UdGPBC {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f11-UdGPBC {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .f12-pE06WR {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-13OmKR {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .f12-13OmKR {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .seat-normal-2-vQb0Fp {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 332px;
+  width: 1692px;
+}
+
+.avenger-end-game .e1-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-6psIOh {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e1-6psIOh {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e2-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-pRC6TL {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e2-pRC6TL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e3-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-nffgLa {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e3-nffgLa {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e4-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-lHcbHL {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e-lHcbHL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e5-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-64-VizrAN {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e5-VizrAN {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e6-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .f6-q8T6u4 {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e6-q8T6u4 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e7-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-0mWzSG {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e-0mWzSG {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e8-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-61-qYvvyf {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e8-qYvvyf {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e9-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-62-F295lp {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e9-F295lp {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.avenger-end-game .e10-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-63-FF6Thv {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e10-FF6Thv {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e11-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-59-ffV3hp {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e11-ffV3hp {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .e12-QfIBKK {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-ttkWMj {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .e12-ttkWMj {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .seat-normal-3-vQb0Fp {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 492px;
+  width: 1692px;
+}
+
+.avenger-end-game .d1-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-YHZ2ky {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d1-YHZ2ky {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d2-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-xWziAY {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d2-xWziAY {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d3-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-ipFr3S {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d3-ipFr3S {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d4-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-QDU7hp {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d4-QDU7hp {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d5-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-64-JkdP9L {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d5-JkdP9L {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d6-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .f6-hHrwPi {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d6-hHrwPi {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d7-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-vsSxIN {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d-vsSxIN {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d8-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-61-PMFW27 {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d8-PMFW27 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d9-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-62-b9bHBS {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d9-b9bHBS {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.avenger-end-game .d10-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-63-kLYkrz {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d10-kLYkrz {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d11-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-59-A8mXIZ {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d11-A8mXIZ {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .d12-nt8VnG {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-cqjMm3 {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .d13-cqjMm3 {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .seat-normal-4-vQb0Fp {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 652px;
+  width: 1692px;
+}
+
+.avenger-end-game .c1-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-2ZPQ0z {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c1-2ZPQ0z {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c2-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-j5sxqx {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c2-j5sxqx {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c3-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-fhoKl5 {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c3-fhoKl5 {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c4-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-DWpVaS {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c4-DWpVaS {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c5-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-64-oozM3p {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c5-oozM3p {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c6-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .f6-GqAwTU {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c6-GqAwTU {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c7-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-USKlCH {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c7-USKlCH {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c8-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-61-tvWquL {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c8-tvWquL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c9-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-62-nyYvbY {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c9-nyYvbY {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.avenger-end-game .c10-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-63-jEf52g {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c10-jEf52g {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c11-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-59-rRFeFx {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c11-rRFeFx {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .c12-mwKpky {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-hgQ63q {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .c12-hgQ63q {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .seat-normal-5-vQb0Fp {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 812px;
+  width: 1692px;
+}
+
+.avenger-end-game .b1-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-AfAGyK {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b1-AfAGyK {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b2-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-C2HQw8 {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b2-C2HQw8 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b3-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-4OuaqS {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b3-4OuaqS {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b4-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-m0IbLR {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b4-m0IbLR {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b5-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-64-cJvOre {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b5-cJvOre {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b6-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .f6-bdz4hK {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b6-bdz4hK {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b7-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-dy3xY2 {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b7-dy3xY2 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b8-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-61-rezZja {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b8-rezZja {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b9-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-62-Vo1xK6 {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b9-Vo1xK6 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.avenger-end-game .b10-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-63-KC0Ez9 {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b10-KC0Ez9 {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b11-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-59-9NHPk7 {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b11-9NHPk7 {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .b12-mvLWi2 {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-pPbhnB {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .b12-pPbhnB {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .seat-normal-6-vQb0Fp {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 972px;
+  width: 1692px;
+}
+
+.avenger-end-game .a1-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-uU8mT1 {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a1-uU8mT1 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a2-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 142px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-YpJmhj {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a2-YpJmhj {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a3-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 288px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-QSTMhG {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a3-QSTMhG {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a4-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-58-EYFdJ5 {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a4-EYFdJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a5-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 583px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-64-VUguu8 {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a5-VUguu8 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a6-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .f6-L6YhTh {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a6-L6YhTh {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a7-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 874px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-2vJuwi {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a7-2vJuwi {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a8-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 1020px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-61-sWOk1q {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a8-sWOk1q {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a9-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 1167px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-62-9G4j0O {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a9-9G4j0O {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.avenger-end-game .a10-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 1314px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-63-NBygsC {
+  background-color: var(--gamboge);
+  border-radius: 20px;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a10-NBygsC {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a11-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 1462px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-59-Ms7b98 {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a11-Ms7b98 {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}
+
+.avenger-end-game .a12-mhDVLf {
+  background-color: transparent;
+  height: 93px;
+  left: 1600px;
+  position: absolute;
+  top: 0px;
+  width: 95px;
+}
+
+.avenger-end-game .rectangle-60-xktucs {
+  background-color: transparent;
+  height: 93px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+
+.avenger-end-game .a12-xktucs {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: auto;
+}

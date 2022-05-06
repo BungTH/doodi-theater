@@ -1,0 +1,465 @@
+/* screen - create-account-page-for-customer-sun */
+
+.create-account-page-for-customer-sun {
+  background-color: var(--black);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1960px;
+}
+
+.create-account-page-for-customer-sun .navbar-yWFWPm {
+  background-color: transparent;
+  height: 164px;
+  left: -3px;
+  position: absolute;
+  top: -25px;
+  width: 1971px;
+}
+
+.create-account-page-for-customer-sun .nav_background-xpYdOa {
+  background-color: var(--tundora-2);
+  height: 101px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 1963px;
+}
+
+.create-account-page-for-customer-sun .promotions-xpYdOa {
+  background-color: transparent;
+  height: auto;
+  left: 705px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 255px;
+}
+
+.create-account-page-for-customer-sun .rectangle-36-xpYdOa {
+  background-color: var(--tundora);
+  height: 94px;
+  left: 185px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 123px;
+}
+
+.create-account-page-for-customer-sun .main-xpYdOa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 109px;
+}
+
+.create-account-page-for-customer-sun .rectangle-37-xpYdOa {
+  background-color: var(--tundora);
+  height: 64px;
+  left: 329px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.create-account-page-for-customer-sun .theater-xpYdOa {
+  background-color: transparent;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 176px;
+}
+
+.create-account-page-for-customer-sun .movie-xpYdOa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 132px;
+}
+
+.create-account-page-for-customer-sun .ellipse-1-xpYdOa {
+  background-color: var(--mist-gray);
+  border-radius: 58.5px/43px;
+  cursor: pointer;
+  height: 86px;
+  left: 1830px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 117px;
+}
+
+.create-account-page-for-customer-sun .movie-logo-xpYdOa {
+  background-color: transparent;
+  height: 139px;
+  left: 10px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 164px;
+}
+
+.create-account-page-for-customer-sun .background-picture-yWFWPm {
+  background-color: transparent;
+  height: 924px;
+  left: 16px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 1928px;
+}
+
+.create-account-page-for-customer-sun .group-20-yWFWPm {
+  background-color: transparent;
+  height: 876px;
+  left: 330px;
+  position: absolute;
+  top: 111px;
+  width: 1321px;
+}
+
+.create-account-page-for-customer-sun .rectangle-29-citEC2 {
+  background-color: var(--tundora);
+  height: 849px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 1301px;
+}
+
+.create-account-page-for-customer-sun .group-38-citEC2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 563px;
+  position: absolute;
+  top: 816px;
+  width: 175px;
+}
+
+.create-account-page-for-customer-sun .sign-up-button-IwNqWi {
+  background-color: var(--gold-tips);
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 171px;
+}
+
+.create-account-page-for-customer-sun .sign-up-IwNqWi {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 172px;
+}
+
+.create-account-page-for-customer-sun .group-37-citEC2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 66px;
+  left: 521px;
+  position: absolute;
+  top: 727px;
+  width: 260px;
+}
+
+.create-account-page-for-customer-sun .create-account-button-F1lWva {
+  background-color: var(--gold-tips);
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 258px;
+}
+
+.create-account-page-for-customer-sun .create-account-F1lWva {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 247px;
+}
+
+.create-account-page-for-customer-sun .gender-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 663px;
+  width: 255px;
+}
+
+.create-account-page-for-customer-sun .fill-in-tele-num-citEC2 {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 62px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 571px;
+  width: 565px;
+}
+
+.create-account-page-for-customer-sun .fill-in-tele-num-WQ3L94 {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 681px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 571px;
+  width: 565px;
+}
+
+.create-account-page-for-customer-sun .gender-select-citEC2 {
+  background-color: var(--mist-gray);
+  height: 28px;
+  left: 571px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 663px;
+  width: 233px;
+}
+
+.create-account-page-for-customer-sun .telephone-number-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 517px;
+  width: 255px;
+}
+
+.create-account-page-for-customer-sun .confirm-password-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 674px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 402px;
+  width: 255px;
+}
+
+.create-account-page-for-customer-sun .fill-in-birth-date-citEC2 {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 681px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 441px;
+  width: 565px;
+}
+
+.create-account-page-for-customer-sun .birth-date-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 661px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 517px;
+  width: 172px;
+}
+
+.create-account-page-for-customer-sun .fill-in-password-citEC2 {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 681px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 327px;
+  width: 565px;
+}
+
+.create-account-page-for-customer-sun .password-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 661px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 286px;
+  width: 172px;
+}
+
+.create-account-page-for-customer-sun .fill-in-email-citEC2 {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 681px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 214px;
+  width: 565px;
+}
+
+.create-account-page-for-customer-sun .email-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 173px;
+  width: 172px;
+}
+
+.create-account-page-for-customer-sun .fill-in-last-name-citEC2 {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 62px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 441px;
+  width: 565px;
+}
+
+.create-account-page-for-customer-sun .last-name-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 401px;
+  width: 172px;
+}
+
+.create-account-page-for-customer-sun .fill-in-first-name-citEC2 {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 62px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 326px;
+  width: 565px;
+}
+
+.create-account-page-for-customer-sun .first-name-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 285px;
+  width: 172px;
+}
+
+.create-account-page-for-customer-sun .fill-in-username-citEC2 {
+  background-color: var(--mist-gray);
+  height: 63px;
+  left: 62px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 214px;
+  width: 565px;
+}
+
+.create-account-page-for-customer-sun .username-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 170px;
+  width: 172px;
+}
+
+.create-account-page-for-customer-sun .create-account-citEC2 {
+  background-color: transparent;
+  height: auto;
+  left: 513px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  width: 271px;
+}
+
+.create-account-page-for-customer-sun .movie-logo-citEC2 {
+  background-color: transparent;
+  height: 164px;
+  left: 566px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+
+.create-account-page-for-customer-sun .polygon-4-yWFWPm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 1103px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 776px;
+  width: 25px;
+}

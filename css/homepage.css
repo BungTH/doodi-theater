@@ -1,0 +1,595 @@
+/* screen - homepage */
+
+.homepage {
+  background-color: var(--black);
+  height: 2860px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1960px;
+}
+
+.homepage .navbar-zYNucu {
+  background-color: transparent;
+  height: 164px;
+  left: -3px;
+  position: absolute;
+  top: -25px;
+  width: 1971px;
+}
+
+.homepage .nav_background-7kXEN7 {
+  background-color: var(--tundora-2);
+  height: 101px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 1963px;
+}
+
+.homepage .promotions-7kXEN7 {
+  background-color: transparent;
+  height: auto;
+  left: 705px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 255px;
+}
+
+.homepage .rectangle-36-7kXEN7 {
+  background-color: var(--tundora);
+  height: 94px;
+  left: 185px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 123px;
+}
+
+.homepage .main-7kXEN7 {
+  background-color: transparent;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 109px;
+}
+
+.homepage .rectangle-37-7kXEN7 {
+  background-color: var(--tundora);
+  height: 64px;
+  left: 329px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.homepage .theater-7kXEN7 {
+  background-color: transparent;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 176px;
+}
+
+.homepage .movie-7kXEN7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 132px;
+}
+
+.homepage .ellipse-1-7kXEN7 {
+  background-color: var(--mist-gray);
+  border-radius: 58.5px/43px;
+  cursor: pointer;
+  height: 86px;
+  left: 1830px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 117px;
+}
+
+.homepage .movie-logo-7kXEN7 {
+  background-color: transparent;
+  height: 139px;
+  left: 10px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 164px;
+}
+
+.homepage .image-7-zYNucu {
+  background-color: transparent;
+  height: 1104px;
+  left: -2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1756px;
+  width: 1960px;
+}
+
+.homepage .image-7-9y9vaA {
+  background-color: transparent;
+  height: 1104px;
+  left: -2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 908px;
+  width: 1960px;
+}
+
+.homepage .rogue_one_a_star_war-zYNucu {
+  background-color: transparent;
+  height: 628px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 98px;
+  width: 1960px;
+}
+
+.homepage .your-pathway-to-excitement-zYNucu {
+  background-color: transparent;
+  height: auto;
+  left: 1322px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 211px;
+  width: 563px;
+}
+
+.homepage .discover-dodi-theater-zYNucu {
+  background-color: transparent;
+  height: auto;
+  left: 1422px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 155px;
+  width: 463px;
+}
+
+.homepage .group-28-zYNucu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 95px;
+  left: 1629px;
+  position: absolute;
+  top: 440px;
+  width: 258px;
+}
+
+.homepage .rectangle-65-y1Tj2J {
+  background-color: var(--red-orange);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 242px;
+}
+
+.homepage .sign-up-now-y1Tj2J {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 256px;
+}
+
+.homepage .utez-1-zYNucu {
+  background-color: transparent;
+  height: 330px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 578px;
+  width: 1960px;
+}
+
+.homepage .uzlol-1-zYNucu {
+  background-color: transparent;
+  height: 209px;
+  left: 142px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 639px;
+  width: 500px;
+}
+
+.homepage .now-available-in-theater-zYNucu {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-zcool_qingke_huangyou);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1394px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 652px;
+  width: 418px;
+}
+
+.homepage .group-28-9y9vaA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 95px;
+  left: 1475px;
+  position: absolute;
+  top: 767px;
+  width: 258px;
+}
+
+.homepage .rectangle-65-8Ro6Vs {
+  background-color: var(--white);
+  border: 1px solid var(--red-orange);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 242px;
+}
+
+.homepage .book-now-8Ro6Vs {
+  -webkit-text-stroke: 1px var(--red-orange);
+  background-color: transparent;
+  height: auto;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 256px;
+}
+
+.homepage .feature-films-zYNucu {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 931px;
+  width: 478px;
+}
+
+.homepage .rectangle-69-zYNucu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 626px;
+  left: 733px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1078px;
+  width: 493px;
+}
+
+.homepage .rectangle-38-zYNucu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 626px;
+  left: 130px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1078px;
+  width: 493px;
+}
+
+.homepage .rectangle-70-zYNucu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 618px;
+  left: 1340px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1078px;
+  width: 485px;
+}
+
+.homepage .rectangle-50-zYNucu {
+  background-color: transparent;
+  height: 475px;
+  left: 333px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2011px;
+  width: 574px;
+}
+
+.homepage .image-2-zYNucu {
+  background-color: transparent;
+  height: 475px;
+  left: 1053px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2011px;
+  width: 574px;
+}
+
+.homepage .promotion-zYNucu {
+  background-color: transparent;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1848px;
+  width: 352px;
+}
+
+.homepage .rectangle-68-zYNucu {
+  background-color: var(--tundora);
+  height: 95px;
+  left: 337px;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  top: 2383px;
+  width: 566px;
+}
+
+.homepage .rectangle-68-9y9vaA {
+  background-color: var(--tundora);
+  height: 95px;
+  left: 1057px;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  top: 2383px;
+  width: 566px;
+}
+
+.homepage .buy-2-popcorn-get-1-free-zYNucu {
+  background-color: transparent;
+  height: auto;
+  left: 337px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2398px;
+  width: 560px;
+}
+
+.homepage .buy-2-ticket-get-1-popcorn-zYNucu {
+  background-color: transparent;
+  height: auto;
+  left: 1060px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2398px;
+  width: 560px;
+}
+
+.homepage .group-31-zYNucu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 104px;
+  left: 876px;
+  position: absolute;
+  top: 1745px;
+  width: 209px;
+}
+
+.homepage .group-29-mKQbGH {
+  background-color: transparent;
+  height: 104px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 211px;
+}
+
+.homepage .rectangle-65-EuqNRA {
+  background-color: var(--gold-tips);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 198px;
+}
+
+.homepage .more-EuqNRA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 209px;
+}
+
+.homepage .bottom-zYNucu {
+  background-color: transparent;
+  height: 117px;
+  left: 44px;
+  position: absolute;
+  top: 2592px;
+  width: 1872px;
+}
+
+.homepage .view-tCiZBv {
+  background-color: var(--mist-gray);
+  height: 14px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1872px;
+}
+
+.homepage .icon-facebook-tCiZBv {
+  background-color: transparent;
+  height: 74px;
+  left: 1505px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 74px;
+}
+
+.homepage .icon-instagram-tCiZBv {
+  background-color: transparent;
+  height: 74px;
+  left: 1627px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 74px;
+}
+
+.homepage .icon-twitter-tCiZBv {
+  background-color: transparent;
+  height: 74px;
+  left: 1764px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 74px;
+}
+
+.homepage .rectangle-71-zYNucu {
+  background-color: var(--tundora);
+  height: 81px;
+  left: 737px;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  top: 1615px;
+  width: 485px;
+}
+
+.homepage .rectangle-72-zYNucu {
+  background-color: var(--tundora);
+  height: 81px;
+  left: 134px;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  top: 1615px;
+  width: 485px;
+}
+
+.homepage .rectangle-73-zYNucu {
+  background-color: var(--tundora);
+  height: 81px;
+  left: 1339px;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  top: 1615px;
+  width: 485px;
+}
+
+.homepage .spider-man-no-way-home-zYNucu {
+  background-color: transparent;
+  height: auto;
+  left: 135px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1628px;
+  width: 485px;
+}
+
+.homepage .kr-beyond-generation-zYNucu {
+  background-color: transparent;
+  height: auto;
+  left: 737px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1628px;
+  width: 484px;
+}
+
+.homepage .the-snake-zYNucu {
+  background-color: transparent;
+  height: auto;
+  left: 1339px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1630px;
+  width: 484px;
+}

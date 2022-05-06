@@ -1,0 +1,925 @@
+/* screen - food-drink-for-customer-sun */
+
+.food-drink-for-customer-sun {
+  background-color: var(--black);
+  height: 2860px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1960px;
+}
+
+.food-drink-for-customer-sun .navbar-9uc6R0 {
+  background-color: transparent;
+  height: 164px;
+  left: -3px;
+  position: absolute;
+  top: -25px;
+  width: 1971px;
+}
+
+.food-drink-for-customer-sun .nav_background-FMlEWn {
+  background-color: var(--tundora-2);
+  height: 101px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 1963px;
+}
+
+.food-drink-for-customer-sun .promotions-FMlEWn {
+  background-color: transparent;
+  height: auto;
+  left: 705px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 255px;
+}
+
+.food-drink-for-customer-sun .rectangle-36-FMlEWn {
+  background-color: var(--tundora);
+  height: 94px;
+  left: 185px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 123px;
+}
+
+.food-drink-for-customer-sun .main-FMlEWn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 109px;
+}
+
+.food-drink-for-customer-sun .rectangle-37-FMlEWn {
+  background-color: var(--tundora);
+  height: 64px;
+  left: 329px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.food-drink-for-customer-sun .theater-FMlEWn {
+  background-color: transparent;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 176px;
+}
+
+.food-drink-for-customer-sun .movie-FMlEWn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 132px;
+}
+
+.food-drink-for-customer-sun .ellipse-1-FMlEWn {
+  background-color: var(--mist-gray);
+  border-radius: 58.5px/43px;
+  cursor: pointer;
+  height: 86px;
+  left: 1830px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 117px;
+}
+
+.food-drink-for-customer-sun .movie-logo-FMlEWn {
+  background-color: transparent;
+  height: 139px;
+  left: 10px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 164px;
+}
+
+.food-drink-for-customer-sun .image-7-9uc6R0 {
+  background-color: transparent;
+  height: 1104px;
+  left: -2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1756px;
+  width: 1960px;
+}
+
+.food-drink-for-customer-sun .image-7-V9yxLk {
+  background-color: transparent;
+  height: 1104px;
+  left: 2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 908px;
+  width: 1960px;
+}
+
+.food-drink-for-customer-sun .rogue_one_a_star_war-9uc6R0 {
+  background-color: transparent;
+  height: 628px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 98px;
+  width: 1960px;
+}
+
+.food-drink-for-customer-sun .your-pathway-to-excitement-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: 1322px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 211px;
+  width: 563px;
+}
+
+.food-drink-for-customer-sun .discover-dodi-theater-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: 1422px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 155px;
+  width: 463px;
+}
+
+.food-drink-for-customer-sun .utez-1-9uc6R0 {
+  background-color: transparent;
+  height: 330px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 578px;
+  width: 1960px;
+}
+
+.food-drink-for-customer-sun .uzlol-1-9uc6R0 {
+  background-color: transparent;
+  height: 209px;
+  left: 142px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 639px;
+  width: 500px;
+}
+
+.food-drink-for-customer-sun .now-available-in-theater-9uc6R0 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-zcool_qingke_huangyou);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1394px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 652px;
+  width: 418px;
+}
+
+.food-drink-for-customer-sun .group-31-9uc6R0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 104px;
+  left: 1067px;
+  position: absolute;
+  top: 2580px;
+  width: 209px;
+}
+
+.food-drink-for-customer-sun .group-29-gyfoZE {
+  background-color: transparent;
+  height: 104px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 211px;
+}
+
+.food-drink-for-customer-sun .rectangle-65-xwHgXq {
+  background-color: var(--gold-tips);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 198px;
+}
+
+.food-drink-for-customer-sun .next-xwHgXq {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 209px;
+}
+
+.food-drink-for-customer-sun .group-32-9uc6R0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 104px;
+  left: 634px;
+  position: absolute;
+  top: 2580px;
+  width: 209px;
+}
+
+.food-drink-for-customer-sun .group-29-G6EvxY {
+  background-color: transparent;
+  height: 104px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 211px;
+}
+
+.food-drink-for-customer-sun .rectangle-65-Hn7xwt {
+  background-color: var(--gold-tips);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 198px;
+}
+
+.food-drink-for-customer-sun .next-Hn7xwt {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 209px;
+}
+
+.food-drink-for-customer-sun .bottom-9uc6R0 {
+  background-color: transparent;
+  height: 117px;
+  left: 44px;
+  position: absolute;
+  top: 2684px;
+  width: 1872px;
+}
+
+.food-drink-for-customer-sun .view-xrnQqW {
+  background-color: var(--mist-gray);
+  height: 14px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1872px;
+}
+
+.food-drink-for-customer-sun .icon-facebook-xrnQqW {
+  background-color: transparent;
+  height: 74px;
+  left: 1505px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 74px;
+}
+
+.food-drink-for-customer-sun .icon-instagram-xrnQqW {
+  background-color: transparent;
+  height: 74px;
+  left: 1627px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 74px;
+}
+
+.food-drink-for-customer-sun .icon-twitter-xrnQqW {
+  background-color: transparent;
+  height: 74px;
+  left: 1764px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 74px;
+}
+
+.food-drink-for-customer-sun .order-of-sprite-9uc6R0 {
+  background-color: transparent;
+  height: 56px;
+  left: 1421px;
+  position: absolute;
+  top: 2432px;
+  width: 261px;
+}
+
+.food-drink-for-customer-sun .rectangle-70-wrYPsD {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-72-wrYPsD {
+  background-color: transparent;
+  height: 49px;
+  left: 184px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-71-wrYPsD {
+  background-color: var(--white);
+  height: 49px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 111px;
+}
+
+.food-drink-for-customer-sun .x-wrYPsD {
+  background-color: transparent;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .x-w8s3aE {
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .sprite-700-ml-30-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: 1367px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2358px;
+  width: auto;
+}
+
+.food-drink-for-customer-sun .sprite-image-9uc6R0 {
+  background-color: transparent;
+  height: 494px;
+  left: 1337px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1845px;
+  width: 441px;
+}
+
+.food-drink-for-customer-sun .oroder-of-normal-water-9uc6R0 {
+  background-color: transparent;
+  height: 56px;
+  left: 831px;
+  position: absolute;
+  top: 2432px;
+  width: 261px;
+}
+
+.food-drink-for-customer-sun .rectangle-70-3ZsfzJ {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-72-3ZsfzJ {
+  background-color: transparent;
+  height: 49px;
+  left: 184px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-71-3ZsfzJ {
+  background-color: var(--white);
+  height: 49px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 111px;
+}
+
+.food-drink-for-customer-sun .x-3ZsfzJ {
+  background-color: transparent;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .x-QxC8GH {
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .crystal-water-600-ml-20-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: 661px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2358px;
+  width: 575px;
+}
+
+.food-drink-for-customer-sun .normal-water-image-9uc6R0 {
+  background-color: transparent;
+  height: 494px;
+  left: 734px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1845px;
+  width: 441px;
+}
+
+.food-drink-for-customer-sun .order-of-pepsi-9uc6R0 {
+  background-color: transparent;
+  height: 56px;
+  left: 219px;
+  position: absolute;
+  top: 2432px;
+  width: 261px;
+}
+
+.food-drink-for-customer-sun .rectangle-70-6CKuUB {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-72-6CKuUB {
+  background-color: transparent;
+  height: 49px;
+  left: 184px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-71-6CKuUB {
+  background-color: var(--white);
+  height: 49px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 111px;
+}
+
+.food-drink-for-customer-sun .x-6CKuUB {
+  background-color: transparent;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .x-agVPhi {
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .pepsi-500-ml-25-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2358px;
+  width: auto;
+}
+
+.food-drink-for-customer-sun .pepsi-image-9uc6R0 {
+  background-color: transparent;
+  height: 494px;
+  left: 127px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1837px;
+  width: 441px;
+}
+
+.food-drink-for-customer-sun .drink-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: -41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1682px;
+  width: 352px;
+}
+
+.food-drink-for-customer-sun .order-of-hi-chew-9uc6R0 {
+  background-color: transparent;
+  height: 56px;
+  left: 1421px;
+  position: absolute;
+  top: 1603px;
+  width: 261px;
+}
+
+.food-drink-for-customer-sun .rectangle-70-lHSBbW {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-72-lHSBbW {
+  background-color: transparent;
+  height: 49px;
+  left: 184px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-71-lHSBbW {
+  background-color: var(--white);
+  height: 49px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 111px;
+}
+
+.food-drink-for-customer-sun .x-lHSBbW {
+  background-color: transparent;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .x-CZPWFV {
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .hi-chew-30-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: 1387px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1537px;
+  width: 325px;
+}
+
+.food-drink-for-customer-sun .hi-chew-image-9uc6R0 {
+  background-color: transparent;
+  height: 494px;
+  left: 1337px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1028px;
+  width: 441px;
+}
+
+.food-drink-for-customer-sun .order-of-hotdog-9uc6R0 {
+  background-color: transparent;
+  height: 56px;
+  left: 826px;
+  position: absolute;
+  top: 1603px;
+  width: 261px;
+}
+
+.food-drink-for-customer-sun .rectangle-70-1GWwow {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-72-1GWwow {
+  background-color: transparent;
+  height: 49px;
+  left: 184px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-71-1GWwow {
+  background-color: var(--white);
+  height: 49px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 111px;
+}
+
+.food-drink-for-customer-sun .x-1GWwow {
+  background-color: transparent;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .x-CkIwZQ {
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .hot-dog-35-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: 792px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1537px;
+  width: 325px;
+}
+
+.food-drink-for-customer-sun .hot-dog-image-9uc6R0 {
+  background-color: transparent;
+  height: 494px;
+  left: 734px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1028px;
+  width: 441px;
+}
+
+.food-drink-for-customer-sun .order-of-popcorn-9uc6R0 {
+  background-color: transparent;
+  height: 56px;
+  left: 223px;
+  position: absolute;
+  top: 1603px;
+  width: 261px;
+}
+
+.food-drink-for-customer-sun .rectangle-70-kDHUiQ {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-72-kDHUiQ {
+  background-color: transparent;
+  height: 49px;
+  left: 184px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.food-drink-for-customer-sun .rectangle-71-kDHUiQ {
+  background-color: var(--white);
+  height: 49px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 111px;
+}
+
+.food-drink-for-customer-sun .x-kDHUiQ {
+  background-color: transparent;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .x-eHoVC8 {
+  background-color: transparent;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 62px;
+}
+
+.food-drink-for-customer-sun .popcorn-image-9uc6R0 {
+  background-color: transparent;
+  height: 494px;
+  left: 131px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1028px;
+  width: 441px;
+}
+
+.food-drink-for-customer-sun .popcorn-50-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1537px;
+  width: 325px;
+}
+
+.food-drink-for-customer-sun .food-9uc6R0 {
+  background-color: transparent;
+  height: auto;
+  left: -104px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 915px;
+  width: 478px;
+}

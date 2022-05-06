@@ -1,0 +1,333 @@
+/* screen - staff-information-for-staff-sun */
+
+.staff-information-for-staff-sun {
+  background-color: var(--white);
+  height: 1259px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1960px;
+}
+
+.staff-information-for-staff-sun .navbar-8YEW8G {
+  background-color: transparent;
+  height: 164px;
+  left: -3px;
+  position: absolute;
+  top: -25px;
+  width: 1963px;
+}
+
+.staff-information-for-staff-sun .nav_background-Omx6Z5 {
+  background-color: var(--tundora-2);
+  height: 101px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 1963px;
+}
+
+.staff-information-for-staff-sun .ellipse-1-Omx6Z5 {
+  background-color: var(--mist-gray);
+  border-radius: 58.5px/43px;
+  cursor: pointer;
+  height: 86px;
+  left: 1830px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 117px;
+}
+
+.staff-information-for-staff-sun .movie-logo-Omx6Z5 {
+  background-color: transparent;
+  height: 139px;
+  left: 10px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 164px;
+}
+
+.staff-information-for-staff-sun .group-44-Omx6Z5 {
+  background-color: transparent;
+  height: 57px;
+  left: 503px;
+  position: absolute;
+  top: 47px;
+  width: 331px;
+}
+
+.staff-information-for-staff-sun .rectangle-75-o0aMO1 {
+  background-color: var(--mist-gray);
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 329px;
+}
+
+.staff-information-for-staff-sun .staff-information-o0aMO1 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 317px;
+}
+
+.staff-information-for-staff-sun .group-43-Omx6Z5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 71px;
+  left: 238px;
+  position: absolute;
+  top: 46px;
+  width: 212px;
+}
+
+.staff-information-for-staff-sun .rectangle-74-HHlkdq {
+  background-color: var(--mist-gray);
+  height: 58px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.staff-information-for-staff-sun .schedule-HHlkdq {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 210px;
+}
+
+.staff-information-for-staff-sun .staff-information-8YEW8G {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 209px;
+  width: 445px;
+}
+
+.staff-information-for-staff-sun .fill-in-staff-id-8YEW8G {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 47px;
+  left: 284px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 381px;
+  width: 518px;
+}
+
+.staff-information-for-staff-sun .fill-in-first-name-8YEW8G {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 47px;
+  left: 284px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 472px;
+  width: 518px;
+}
+
+.staff-information-for-staff-sun .fill-in-last-name-8YEW8G {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 47px;
+  left: 284px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 563px;
+  width: 518px;
+}
+
+.staff-information-for-staff-sun .fill-in-position-8YEW8G {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 47px;
+  left: 284px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 654px;
+  width: 518px;
+}
+
+.staff-information-for-staff-sun .fill-in-birth-date-8YEW8G {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 47px;
+  left: 284px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 745px;
+  width: 518px;
+}
+
+.staff-information-for-staff-sun .fill-in-email-8YEW8G {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 47px;
+  left: 284px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 836px;
+  width: 518px;
+}
+
+.staff-information-for-staff-sun .fill-in-telenum-8YEW8G {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 47px;
+  left: 284px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 927px;
+  width: 518px;
+}
+
+.staff-information-for-staff-sun .fill-in-gender-8YEW8G {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 47px;
+  left: 284px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1018px;
+  width: 518px;
+}
+
+.staff-information-for-staff-sun .staff-id-8YEW8G {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 383px;
+  width: 172px;
+}
+
+.staff-information-for-staff-sun .first-name-8YEW8G {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 477px;
+  width: 172px;
+}
+
+.staff-information-for-staff-sun .last-name-8YEW8G {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 562px;
+  width: 172px;
+}
+
+.staff-information-for-staff-sun .postion-8YEW8G {
+  background-color: transparent;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 653px;
+  width: 172px;
+}
+
+.staff-information-for-staff-sun .date-of-brith-8YEW8G {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 753px;
+  width: 200px;
+}
+
+.staff-information-for-staff-sun .telephone-number-8YEW8G {
+  background-color: transparent;
+  height: auto;
+  left: 63px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 910px;
+  width: 200px;
+}
+
+.staff-information-for-staff-sun .email-8YEW8G {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 840px;
+  width: 200px;
+}
+
+.staff-information-for-staff-sun .gender-8YEW8G {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1021px;
+  width: 200px;
+}
+
+.staff-information-for-staff-sun .rectangle-16-8YEW8G {
+  background-color: var(--quill-gray);
+  height: 419px;
+  left: 1230px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 164px;
+  width: 430px;
+}
