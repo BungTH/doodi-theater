@@ -43,7 +43,7 @@
 {
     color: #ffffff!important;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 2em;
 }
 
 /*-----cool scroller-----*/
@@ -70,27 +70,27 @@ body::-webkit-scrollbar-thumb
     font-size: 3em;
     position: absolute;
     color: #FF3535;
-    top: 85px;
+    top: 15%;
     right: 50px;
 }
 #Lable2 {
     font-size: 5.5em;
     position: absolute;
     color: #ffffff;
-    top: 175px;
+    top: 25%;
     right: 50px;
 }
 #Lable3 {
     font-size: 5.5em;
     position: absolute;
     color: #ffffff;
-    top: 260px;
+    top: 40%;
     right: 50px;
 }
 #Button1 {
     font-size: 3em;
     position: absolute;
-    top: 450px;
+    bottom: 10%;
     right: 50px;
 }
 #Ultra {
