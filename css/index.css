@@ -95,27 +95,27 @@ body::-webkit-scrollbar-thumb
 }
 #Ultra {
     position: absolute;
-    top: 75px;
-    left: 75px;
+    top: 15%;
+    left: 50px;
 }
 #Lable4 {
     font-size: 3em;
     position: absolute;
     color: #000000;
-    top: 75px;
+    top: 10%;
     right: 100px;
 }
 #Lable5 {
     font-size: 3em;
     position: absolute;
     color: #000000;
-    top: 140px;
+    top: 30%;
     right: 150px;
 }
 #Button2 {
     font-size: 3em;
     position: absolute;
-    top: 225px;
+    top: 57%;
     right: 150px;
 }
 #Lable6 {
@@ -126,11 +126,11 @@ body::-webkit-scrollbar-thumb
     color: #ffffff;
 }
 #Movie-Lable1{
-    font-size: 2.7em;
+    font-size: 2.01em;
     position: absolute;
     color: #ffffff;
     background-color: #3d3b3b;
-    top: 900px;
+    top: 675px;
     left: 99px;
 }
 #No-Way-Home{
@@ -139,4 +139,47 @@ body::-webkit-scrollbar-thumb
     width: 25%;
     top: 150px;
     left: 100px;
+}
+#Movie-Lable2{
+    font-size: 2.01em;
+    position: absolute;
+    color: #ffffff;
+    background-color: #3d3b3b;
+    top: 675px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    padding-left: 32px;
+    padding-right: 32px;
+}
+#Kamen-Rider{
+    position: absolute;
+    height: auto;
+    width: 25%;
+    top: 150px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+#Movie-Lable3{
+    font-size: 2.01em;
+    position: absolute;
+    color: #ffffff;
+    background-color: #3d3b3b;
+    top: 675px;
+    right: 99px;
+    padding-left: 119px;
+    padding-right: 119px;
+}
+#Snake{
+    position: absolute;
+    height: auto;
+    width: 25%;
+    top: 150px;
+    right: 100px;
+}
+#Button3 {
+    font-size: 2em;
+    position: absolute;
+    bottom: 2.5%;
+    left: 50%;
+    transform: translate(-50%, 0%);
 }
