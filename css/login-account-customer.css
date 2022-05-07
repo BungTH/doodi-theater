@@ -1,0 +1,83 @@
+/*-----Lable-----*/
+
+fieldset {
+  display: block;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-before: 0em;
+  -webkit-padding-start: 0em;
+  -webkit-padding-end: 0em;
+  -webkit-padding-after: 0em;
+  border: 0px;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+  min-width: -webkit-min-content;
+  padding: 30px;
+}
+.ghost-input {
+  display: block;
+  font-weight:300;
+  width: 100%;
+  font-size: 25px;
+  border:0px;
+  outline: none;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #4b545f;
+  background: #fff;
+  font-family: Open Sans,Verdana;
+  padding: 10px 15px;
+  margin: 10px, 0px;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+.ghost-button {
+  background-color: #33aafa;
+  color: #ffffff;
+  border:2px solid #ddd;
+  padding: 10px 10px; 
+  margin-top: 20px;
+  min-width: 350px;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+.ghost-button:hover {
+  border:2px solid #515151;
+}
+#Logo-Login {
+    position: absolute;
+    height: 20%;
+    left: 50%;
+    transform: translate(-50%, 45%);
+}
+#Box-Login {
+    position: absolute;
+    height: 85%;
+    left: 50%;
+    transform: translate(-50%, 10%);
+}
+#Sign-Up {
+    font-size: 2em;
+    color: #ffffff;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 370%);
+}
+#Sign-Form {
+    font-size: 1.2em;
+    color: #ffffff;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 85%);
+}
