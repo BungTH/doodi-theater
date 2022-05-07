@@ -358,3 +358,118 @@
   top: 177%;
   right: 22%;
 }
+
+/*-----Kaizoku Content-----*/
+
+#Kaizoku{
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  top: 200%;
+  left: 10%;
+}
+.box10 {
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  background-color: #737373;
+  top: 215%;
+  left: 10%;
+}
+#Kaizoku-Banner{
+  position: absolute;
+  height: 23%;
+  width: auto;
+  top: 215%;
+  left: 22%;
+}
+#Kaizoku-Text-A{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 227%;
+  left: 11%;
+}
+#Kaizoku-Text-B{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 232%;
+  left: 12%;
+}
+
+/*-----BanG Dream Content-----*/
+
+#Bang-Dream{
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  top: 200%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+.box11 {
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  background-color: #737373;
+  top: 215%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+#Bang-Dream-Banner{
+  position: absolute;
+  height: 23%;
+  width: auto;
+  top: 215%;
+  left: 55%;
+  transform: translate(-50%, 0%);
+}
+#Bang-Dream-Text-A{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 227%;
+  left: 45%;
+  transform: translate(-50%, 0%);
+}
+#Bang-Dream-Text-B{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 232%;
+  left: 45%;
+  transform: translate(-50%, 0%);
+}
+
+/*-----Snake Content-----*/
+
+#Snake{
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  top: 200%;
+  right: 10%;
+}
+.box12 {
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  background-color: #737373;
+  top: 215%;
+  right: 10%;
+}
+#Snake-Banner{
+  position: absolute;
+  height: 23%;
+  width: auto;
+  top: 215%;
+  right: 12%;
+}
+#Snake-Text-A{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 230%;
+  right: 22%;
+}
