@@ -129,3 +129,86 @@
     top: 67%;
     right: 22.5%;
 }
+
+/*-----Ultra Man Content-----*/
+
+#Ultra-Man{
+    position: absolute;
+    height: 25%;
+    width: 338px;
+    top: 90%;
+    left: 10%;
+}
+.box4 {
+    position: absolute;
+    height: 25%;
+    width: 338px;
+    background-color: #737373;
+    top: 105%;
+    left: 10%;
+}
+#Ultra-Man-Banner{
+    position: absolute;
+    height: 23%;
+    width: auto;
+    top: 105%;
+    left: 12%;
+}
+#Ultra-Man-Text-A{
+    position: absolute;
+    font-size: 1.5em;
+    color: #ffffff;
+    top: 117%;
+    left: 20%;
+}
+#Ultra-Man-Text-B{
+    position: absolute;
+    font-size: 1.5em;
+    color: #ffffff;
+    top: 122%;
+    left: 22%;
+}
+
+/*-----End Game Content-----*/
+
+#End-Game{
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+.box5 {
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  background-color: #737373;
+  top: 105%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+#End-Game-Banner{
+  position: absolute;
+  height: 23%;
+  width: auto;
+  top: 105%;
+  left: 55%;
+  transform: translate(-50%, 0%);
+}
+#End-Game-Text-A{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 117%;
+  left: 45%;
+  transform: translate(-50%, 0%);
+}
+#End-Game-Text-B{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 122%;
+  left: 45%;
+  transform: translate(-50%, 0%);
+}
