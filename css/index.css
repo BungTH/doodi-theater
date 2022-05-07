@@ -188,7 +188,7 @@ body::-webkit-scrollbar-thumb
     position: absolute;
     color: #ffffff;
     background-color: #3d3b3b;
-    top: 425px;
+    top: 525px;
     left: 285px;
     padding-left: 12px;
     padding-right: 12px;
@@ -197,7 +197,7 @@ body::-webkit-scrollbar-thumb
     position: absolute;
     height: auto;
     width: 25%;
-    top: 150px;
+    top: 250px;
     left: 285px;
 }
 #Promo-Lable2{
@@ -205,7 +205,7 @@ body::-webkit-scrollbar-thumb
     position: absolute;
     color: #ffffff;
     background-color: #3d3b3b;
-    top: 425px;
+    top: 525px;
     right: 225px;
     padding-left: 48px;
     padding-right: 48px;
@@ -214,7 +214,7 @@ body::-webkit-scrollbar-thumb
     position: absolute;
     height: auto;
     width: 30%;
-    top: 150px;
+    top: 250px;
     right: 225px;
 }
 
