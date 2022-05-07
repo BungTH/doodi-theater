@@ -251,3 +251,110 @@
   top: 122%;
   right: 22%;
 }
+
+/*-----Clone Wars Content-----*/
+
+#Clone-Wars{
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  top: 145%;
+  left: 10%;
+}
+.box7 {
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  background-color: #737373;
+  top: 160%;
+  left: 10%;
+}
+#Clone-Wars-Banner{
+  position: absolute;
+  height: 23%;
+  width: auto;
+  top: 160%;
+  left: 22%;
+}
+#Clone-Wars-Text-A{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 175%;
+  left: 12%;
+}
+
+/*-----Sith Content-----*/
+
+#Sith{
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  top: 145%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+.box8 {
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  background-color: #737373;
+  top: 160%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+#Sith-Banner{
+  position: absolute;
+  height: 23%;
+  width: auto;
+  top: 160%;
+  left: 45%;
+  transform: translate(-50%, 0%);
+}
+#Sith-Text-A{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 175%;
+  left: 55%;
+  transform: translate(-50%, 0%);
+}
+
+/*-----Kamen Rider Content-----*/
+
+#Kamen-Rider{
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  top: 145%;
+  right: 10%;
+}
+.box9 {
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  background-color: #737373;
+  top: 160%;
+  right: 10%;
+}
+#Kamen-Rider-Banner{
+  position: absolute;
+  height: 23%;
+  width: auto;
+  top: 160%;
+  right: 12%;
+}
+#Kamen-Rider-Text-A{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 172%;
+  right: 22%;
+}
+#Kamen-Rider-Text-B{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 177%;
+  right: 22%;
+}
