@@ -1,64 +1,97 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Dodi Theater</title>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=1960, maximum-scale=1.0" />
-    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
-    <meta name="og:type" content="website" />
-    <meta name="twitter:card" content="photo" />
-    <link rel="stylesheet" type="text/css" href="css/movie-new.css" />
-    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
-    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shotcut icon" href="img/logo/Dodi_theater_white.png">
+    <link rel="stylesheet" type="text/css" href="css/global.css"/>
+    <link rel="stylesheet" type="text/css" href="css/all-movie-info.css"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap">
   </head>
-  <body style="margin: 0; background: #000000">
-    <input type="hidden" id="anPageName" name="page" value="movie-new" />
-    <div class="container-center-horizontal">
-      <div class="movie-new screen">
-        <div class="navbar-xKJbct">
-          <img class="image-7-Md9906" src="img/image-7@1x.png" />
-          <div class="nav_background-Md9906"></div>
-          <div class="promotions-Md9906 roboto-normal-white-36px">Promotions</div>
-          <div class="rectangle-36-Md9906"></div>
-          <a href="homepage.html"><div class="main-Md9906 roboto-normal-white-36px">Main</div> </a>
-          <div class="rectangle-37-Md9906"></div>
-          <div class="theater-Md9906 roboto-normal-white-36px">Theater</div>
-          <div class="movie-Md9906 roboto-normal-white-36px">Movie</div>
-          <a href="customer-information-for-customer-sun.html"> <div class="ellipse-1-Md9906"></div></a>
+  <body style="background:#000000">
+    <!--Navigate Bar-->
+    <section id="nav-bar">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-logo" href="index.html">
+          <img src="img/logo/Dodi_theater_white.png">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <!--Main Page-->
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <!--Movie-->
+            <li class="nav-item">
+              <a class="nav-link" href="all-movie-info.html">Movie </a>
+            </li>
+          </ul>
+          <a class="navbar-logo-user" href="login-account-customer.html">
+            <img src="img/logo/user-logo.png">
+          </a>
         </div>
-        <img class="image-8-xKJbct" src="img/image-8@1x.png" />
-        <img class="dodi-theater-white-1-xKJbct" src="img/movie-logo@2x.png" />
-        <div class="now-airing-xKJbct">Now Airing</div>
-        <a href="spider-man-no-way-home.html"><img class="group-22-xKJbct" src="img/group-22@2x.svg" /> </a
-        ><a href="atelopbia-uan.html"><img class="group-23-xKJbct" src="img/group-23@2x.svg" /> </a
-        ><a href="rogue-one.html"><img class="group-24-xKJbct" src="img/group-24@2x.svg" /> </a
-        ><a href="ultraman-trigger-episode-z.html"><img class="group-25-xKJbct" src="img/group-25@2x.svg" /> </a
-        ><a href="avenger-end-game.html"><img class="group-26-xKJbct" src="img/group-26@2x.svg" /> </a
-        ><a href="avenger-infinity-war.html"><img class="group-22-CcXIZ7" src="img/group-22-1@2x.svg" /> </a
-        ><a href="star-wars-attack-of-the-clones-episode-ii.html"
-          ><img class="group-27-xKJbct" src="img/group-27@2x.svg" /> </a
-        ><a href="star-wars-revenge-of-the-sith-episode-iii.html"
-          ><img class="group-23-CcXIZ7" src="img/group-23-1@2x.svg" /> </a
-        ><a href="kamen-rider-beyond-generations.html"><img class="group-24-CcXIZ7" src="img/group-24-1@2x.svg" /> </a
-        ><a href="kaizoku-sentai-ten-gokaiger.html"><img class="group-25-CcXIZ7" src="img/group-25-1@2x.svg" /> </a
-        ><a href="bang-dream-film-live.html"><img class="group-26-CcXIZ7" src="img/group-26-1@2x.svg" /> </a
-        ><a href="the-snake.html"><img class="group-22-C3p9Kr" src="img/group-22-2@2x.svg" /> </a>
-        <div class="spider-man-no-way-home-xKJbct zcoolqingkehuangyou-normal-white-36px">
-          Spider-Man<br />No Way Home
+      </nav>
+    </section>
+    <!--First 6 Movie-->
+    <div class="container-fluid">
+      <a id="Top-Text">Now Airing</a>
+      <div class="row">
+        <a href="spider-man-no-way-home.html"><div class="column">
+          <div class="box1"></div>
+          <img id="No-Way-Home" src="img/movie-preview/No Way Home.png">
+          <img id="No-Way-Home-Banner" src="img/movie/no-way-home.png">
+          <a id="No-Way-Home-Text-A">Spider-Man</a>
+          <a id="No-Way-Home-Text-B">No Way Home</a>
+        </div></a>
+        <div class="column">
+          <img id="Atelophobia" src="img/movie-preview/Uan.png">
         </div>
-        <div class="atelophobia-xKJbct zcoolqingkehuangyou-normal-white-36px"><br />Atelophobia</div>
-        <div class="avengers-infinity-war-xKJbct zcoolqingkehuangyou-normal-white-36px">
-          Avengers<br />Infinity&nbsp;&nbsp;War
+        <div class="column">
+          <img id="Rouge-One" src="img/movie-preview/RougeOne.png">
         </div>
-        <div class="kaizoku-sentai-ten-gokaiger-xKJbct zcoolqingkehuangyou-normal-white-36px">
-          Kaizoku Sentai:<br />Ten Gokaiger
+      </div>
+      <div class="row">
+        <div class="column" id="Ultra-Man">
+
         </div>
-        <div class="ban-g-dream-film-live-xKJbct zcoolqingkehuangyou-normal-white-36px">BanG Dream!<br />Film Live</div>
-        <div class="kamen-rider-beyond-generation-xKJbct zcoolqingkehuangyou-normal-white-36px">
-          Kamen Rider<br />Beyond Generation
+        <div class="column" id="End-Game">
+
         </div>
-        <div class="star-wars-ii-xKJbct zcoolqingkehuangyou-normal-white-36px"><br />Star Wars II</div>
-        <div class="star-wars-iii-xKJbct zcoolqingkehuangyou-normal-white-36px"><br />Star Wars III</div>
-        <div class="the-snake-xKJbct zcoolqingkehuangyou-normal-white-36px"><br />The Snake</div>
+        <div class="column" id="Infinity-War">
+
+        </div>
+      </div>
+      <img src="img/background/top-bg1.png" style="width: 100%">
+    </div>
+    <!--Second Half of 6 Movie-->
+    <div class="container-fluid">
+      <img src="img/background/bottom-bg1.png" style="width: 100%">
+      <div id="Attack-Clone">
+
+      </div>
+      <div id="Revenge-Sith">
+
+      </div>
+      <div id="Kamen-Rider">
+
+      </div>
+      <div id="Kaizoku-Sentai">
+
+      </div>
+      <div id="BanG-Dream">
+
+      </div>
+      <div id="The-Snake">
+
       </div>
     </div>
   </body>
