@@ -1,13 +1,13 @@
 /*-----Lable-----*/
 
 .column {
-  float: left;
-  width: 33.33%;
+    float: left;
+    width: 33.33%;
 }
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
 }
 #Top-Text{
     font-size: 3em;
@@ -17,6 +17,9 @@
     left: 50%;
     transform: translate(-50%, 0%);
 }
+
+/*-----Spiderman Content-----*/
+
 #No-Way-Home{
     position: absolute;
     height: 25%;
@@ -47,24 +50,82 @@
     left: 22%;
 }
 #No-Way-Home-Text-B{
-  position: absolute;
-  font-size: 1.5em;
-  color: #ffffff;
-  top: 67%;
-  left: 21%;
+    position: absolute;
+    font-size: 1.5em;
+    color: #ffffff;
+    top: 67%;
+    left: 21%;
 }
+
+/*-----Atelophobia Content-----*/
+
 #Atelophobia{
     position: absolute;
     height: 25%;
-    width: auto;
+    width: 320px;
     top: 35%;
     left: 50%;
     transform: translate(-50%, 0%);
 }
+.box2 {
+    position: absolute;
+    height: 25%;
+    width: 320px;
+    background-color: #737373;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+#Atelophobia-Banner{
+    position: absolute;
+    height: 23%;
+    width: auto;
+    top: 50%;
+    left: 41%;
+}
+#Atelophobia-Text-A{
+    position: absolute;
+    font-size: 1.5em;
+    color: #ffffff;
+    top: 65%;
+    left: 51%;
+}
+
+/*-----Rouge-One Content-----*/
+
 #Rouge-One{
     position: absolute;
     height: 25%;
-    width: auto;
+    width: 338px;
     top: 35%;
-    right: 15%;
+    right: 10%;
+}
+.box3 {
+    position: absolute;
+    height: 25%;
+    width: 338px;
+    background-color: #737373;
+    top: 50%;
+    right: 10%;
+}
+#Rouge-One-Banner{
+    position: absolute;
+    height: 23%;
+    width: auto;
+    top: 50%;
+    right: 12%;
+}
+#Rouge-One-Text-A{
+    position: absolute;
+    font-size: 1.5em;
+    color: #ffffff;
+    top: 62%;
+    right: 22%;
+}
+#Rouge-One-Text-B{
+    position: absolute;
+    font-size: 1.5em;
+    color: #ffffff;
+    top: 67%;
+    right: 22.5%;
 }
