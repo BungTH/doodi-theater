@@ -212,3 +212,42 @@
   left: 45%;
   transform: translate(-50%, 0%);
 }
+
+/*-----Infinity War Content-----*/
+
+#Infinity-War{
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  top: 90%;
+  right: 10%;
+}
+.box6 {
+  position: absolute;
+  height: 25%;
+  width: 338px;
+  background-color: #737373;
+  top: 105%;
+  right: 10%;
+}
+#Infinity-War-Banner{
+  position: absolute;
+  height: 23%;
+  width: auto;
+  top: 105%;
+  right: 12%;
+}
+#Infinity-War-Text-A{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 117%;
+  right: 23%;
+}
+#Infinity-War-Text-B{
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  top: 122%;
+  right: 22%;
+}
