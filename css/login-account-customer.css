@@ -81,3 +81,18 @@ fieldset {
     left: 50%;
     transform: translate(-50%, 85%);
 }
+#Change-Pass {
+    font-size: 1em;
+    color: #ffffff;
+    position: absolute;
+    top: 200px;
+    right: 1px;
+}
+#Create-Acc {
+    font-size: 1em;
+    color: #ffffff;
+    position: absolute;
+    top: 675px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
