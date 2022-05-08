@@ -28,3 +28,25 @@
   top: 49%;
   left: 20%;
 }
+
+/*-----Theater Part-----*/
+
+#Big-Text{
+  font-size: 2.5em;
+  color: #ffffff;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+#Linear-BG
+{
+  position: absolute;
+  background-color: #ffffff; 
+  height: 1vh;
+  width: 100%;
+  border-radius: 3px;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
