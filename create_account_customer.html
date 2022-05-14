@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Dodi Theater</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shotcut icon" href="img/logo/Dodi_theater_white.png">
+    <link rel="stylesheet" type="text/css" href="global.css"/>
+    <link rel="stylesheet" type="text/css" href="create-account-customer.css"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap">
+  </head>
+
+  <body style="background:#000000">
+    <!--Navigate Bar-->
+    <section id="nav-bar">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-logo" href="#">
+          <img src="img/logo/Dodi_theater_white.png">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <!--Main Page-->
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <!--Movie-->
+            <li class="nav-item">
+              <a class="nav-link" href="all-movie-info">Movie</a>
+            </li>
+          </ul>
+          <a class="navbar-logo-user" href="login-account-customer.html">
+            <img src="img/logo/user-logo.png">
+          </a>
+        </div>
+      </nav>
+    </section>
+
+    <!--Create Account Block-->
+    <div class="container-fluid">
+      <img id="Box-Login" src="img/background/box-login2.png">
+      <img id="Logo-Login" src="img/logo/Dodi_theater_white.png">      
+      <form id="Sign-Form" action="">
+
+        <div class="row">
+          <div class = "col-sm-6" >
+            <label for="username">Username:</label>
+            <input type="text" class="ghost-input" id="username" placeholder="Insert your username" name="userID" required>
+          </div>
+          <div class = "col-sm-6" >
+            <label for="email">Email:</label>
+            <input type="email" class="ghost-input" id="email" placeholder="Insert your email" name="email" required>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class = "col-sm-6" >
+            <label for="firstName">First Name:</label>
+            <input type="text" class="ghost-input" id="fName" placeholder="Insert your first name" name="fName" required>
+          </div>
+          <div class = "col-sm-6" >
+            <label for="password">Password:</label>
+            <input type="password" class="ghost-input" id="password" placeholder="Insert your password" name="uPassword" required>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class = "col-sm-6" >
+            <label for="lastName">Last Name:</label>
+            <input type="text" class="ghost-input" id="lName" placeholder="Insert your last name" name="lName" required>
+          </div>
+          <div class = "col-sm-6" >
+            <label for="Cpassword">Confirm Password:</label>
+            <input type="password" class="ghost-input" id="cPassword" placeholder="Insert your Confirm password" name="cPassword" required>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class = "col-sm-6" >
+            <label for="DOB">Brith Date:</label>
+            <input type="date" class="ghost-input" id="birthDate" placeholder="Insert your birth date" name="uDate" required>
+          </div>
+          <div class = "col-sm-6" >
+            <label for="gender">Gender:</label>
+            <br>
+            <select name="gender" id = "gender">
+              <option value="Male">Male</option>
+              <option value="Female">Female</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row d-flex justify-content-center">
+          <div class="col-4">
+            <input type="submit" class="ghost-button" value="Submit"></form>
+          </div>
+        </div>
+
+      </form>
+    </div>
+    <img src="img/background/theater-seat-bg.png" style="width: 100%">
+  </body>
+</html>
