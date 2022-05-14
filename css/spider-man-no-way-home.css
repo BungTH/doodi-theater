@@ -31,7 +31,7 @@
 
 /*-----Theater Part-----*/
 
-#Big-Text{
+#Big-Text1{
   font-size: 2.5em;
   color: #ffffff;
   position: absolute;
@@ -39,8 +39,7 @@
   left: 50%;
   transform: translate(-50%, 0%);
 }
-#Linear-BG
-{
+#Linear-BG1{
   position: absolute;
   background-color: #ffffff; 
   height: 1vh;
@@ -49,4 +48,73 @@
   top: 90%;
   left: 50%;
   transform: translate(-50%, 0%);
+}
+#Big-Text2{
+  font-size: 2.5em;
+  color: #ffffff;
+  position: absolute;
+  top: 140%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+#Linear-BG2{
+  position: absolute;
+  background-color: #ffffff; 
+  height: 1vh;
+  width: 200%;
+  border-radius: 3px;
+  top: 150%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+#Theater {
+  font-size: 1.5em;
+  color: #ffffff;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 85%);
+}
+#Sign-Form {
+  font-size: 2em;
+  color: #ffffff;
+  position: absolute;
+  width: 75%;
+  height: auto;
+  left: 50%;
+  transform: translate(-45%, 650px);
+}
+.ghost-button {
+  background-color: #faf033;
+  color: #000000;
+  border:2px solid #ddd;
+  padding: 10px 10px; 
+  margin-top: 20px;
+  min-width: 200px;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transform: translate(375%, 150%);
+  transition: all 0.1s ease-in-out;
+}
+.ghost-button:hover {
+  border:2px solid #515151;
+}
+.ghost-button2 {
+  background-color: #faf033;
+  font-size: 2em;
+  color: #000000;
+  border:2px solid #ddd;
+  padding: 10px 10px; 
+  margin-top: 20px;
+  min-width: 200px;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transform: translate(125%, 1375px);
+  transition: all 0.1s ease-in-out;
+}
+.ghost-button2:hover {
+  border:2px solid #515151;
 }
