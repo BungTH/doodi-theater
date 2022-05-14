@@ -1,12 +1,3 @@
-<?php 
-  session_start();
-  require_once 'config/db.php';
-  $_SESSION['movie'] = "MV01"
-  if($_SESSION['customerLogin'] == 0) { 
-    $_SESSION['error'] = "Please Login first";
-    header("location: index.php");
-  }
-?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -15,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shotcut icon" href="img/logo/Dodi_theater_white.png">
     <link rel="stylesheet" type="text/css" href="css/global.css"/>
-    <link rel="stylesheet" type="text/css" href="css/spider-man-no-way-home.css"/>
+    <link rel="stylesheet" type="text/css" href="css/movie-booking.css"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -64,56 +55,56 @@
         <form id="Sign-Form" action="seat-booking.html">
           <div class="row">
             <div class="col-md-4">
-              <input type="radio" name="options" id="option1" autocomplete="off">
+              <input type="radio" name="theaterNo" id="option1" autocomplete="off" value="T01">
               <label for="option1">Ya Theater</label>
             </div>
             <div class="col-md-4">
-              <input type="radio" name="options" id="option2" autocomplete="off">
+              <input type="radio" name="theaterNo" id="option2" autocomplete="off" value="T02">
               <label for="option2">Uan Theater</label>
             </div>
             <div class="col-md-4">
-              <input type="radio" name="options" id="option3" autocomplete="off">
+              <input type="radio" name="theaterNo" id="option3" autocomplete="off" value="T03">
               <label for="option3">Sun Theater</label>
             </div>
           </div>
           <br>
           <div class="row">
             <div class="col-md-4">
-              <input type="radio" name="options" id="option4" autocomplete="off">
+              <input type="radio" name="theaterNo" id="option4" autocomplete="off" value="T04">
               <label for="option4">Cheetah Theater</label>
             </div>
             <div class="col-md-4">
-              <input type="radio" name="options" id="option5" autocomplete="off">
+              <input type="radio" name="theaterNo" id="option5" autocomplete="off" value="T05">
               <label for="option5">Bung Theater</label>
             </div>
           </div>
           <br><br><br><br><br><br>
           <div class="row">
             <div class="col-md-4">
-              <input type="radio" name="time1" id="option1" autocomplete="off">
+              <input type="radio" name="time" id="option1" autocomplete="off" value="A">
               <label for="option1">11:30</label>
             </div>
             <div class="col-md-4">
-              <input type="radio" name="time2" id="option2" autocomplete="off">
+              <input type="radio" name="time" id="option2" autocomplete="off" value="B">
               <label for="option2">14:00</label>
             </div>
             <div class="col-md-4">
-              <input type="radio" name="time3" id="option3" autocomplete="off">
+              <input type="radio" name="time" id="option3" autocomplete="off" value="C">
               <label for="option3">16:30</label>
             </div>
           </div>
           <br>
           <div class="row">
             <div class="col-md-4">
-              <input type="radio" name="time4" id="option4" autocomplete="off">
+              <input type="radio" name="time" id="option4" autocomplete="off" value="E">
               <label for="option4">19:00</label>
             </div>
             <div class="col-md-4">
-              <input type="radio" name="time5" id="option5" autocomplete="off">
+              <input type="radio" name="time" id="option5" autocomplete="off" value="F">
               <label for="option5">21:30</label>
             </div>
           </div>
-          <input type="submit" class="ghost-button" value="Confirm">
+          <input type="submit" class="ghost-button" value="booking">
         </form>
         <a href="all-movie-info.html"><button type="button" class="ghost-button2">Back</button></a>
         <div class="container" id="Linear-BG1"></div>

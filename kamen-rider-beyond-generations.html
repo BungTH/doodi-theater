@@ -1,403 +1,116 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Dodi Theater</title>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=1960, maximum-scale=1.0" />
-    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
-    <meta name="og:type" content="website" />
-    <meta name="twitter:card" content="photo" />
-    <link rel="stylesheet" type="text/css" href="css/kamen-rider-beyond-generations.css" />
-    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
-    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shotcut icon" href="img/logo/Dodi_theater_white.png">
+    <link rel="stylesheet" type="text/css" href="css/global.css"/>
+    <link rel="stylesheet" type="text/css" href="css/movie-booking.css"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap">
   </head>
-  <body style="margin: 0; background: #000000">
-    <input type="hidden" id="anPageName" name="page" value="kamen-rider-beyond-generations" />
-    <div class="container-center-horizontal">
-      <div class="kamen-rider-beyond-generations screen">
-        <img class="geed-uf-line-d-1-oRDijm" src="img/geeduflined-1@1x.png" />
-        <img class="geed-uf-line-d-2-oRDijm" src="img/geeduflined-2@1x.png" />
-        <div class="bottom-oRDijm">
-          <div class="view-pVCX2G"></div>
-          <img class="icon-facebook-pVCX2G" src="img/facebook-removebg-preview-1@2x.png" />
-          <img class="icon-instagram-pVCX2G" src="img/ig-removebg-preview-1@2x.png" />
-          <img class="icon-twitter-pVCX2G" src="img/twitterpng-removebg-preview-1@2x.png" />
-          <a href="movie-new.html">
-            <div class="group-29-pVCX2G">
-              <div class="rectangle-66-oFnFS2"></div>
-              <div class="back-oFnFS2 roboto-normal-black-48px">Back</div>
-            </div></a
-          ><a href="food-drink-for-customer-sun.html">
-            <div class="group-30-pVCX2G">
-              <div class="rectangle-66-Bz0zeT"></div>
-              <div class="confirm-Bz0zeT roboto-normal-black-48px">Confirm</div>
-            </div></a
-          >
+
+  <body style="background:#000000">
+    <!--Navigate Bar-->
+    <section id="nav-bar">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-logo" href="index.html">
+          <img src="img/logo/Dodi_theater_white.png">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <!--Main Page-->
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <!--Movie-->
+            <li class="nav-item">
+              <a class="nav-link" href="all-movie-info.html">Movie </a>
+            </li>
+          </ul>
+          <a class="navbar-logo-user" href="login-account-customer.html">
+            <img src="img/logo/user-logo.png">
+          </a>
         </div>
-        <div class="theater-oRDijm">
-          <div class="theater-u5aSJf roboto-normal-white-64px">Theater</div>
-          <img class="rectangle-55-u5aSJf" src="img/rectangle-55@1x.svg" />
-          <div class="ya-theater-u5aSJf roboto-normal-white-36px">Ya Theater</div>
-          <div class="uan-theater-u5aSJf roboto-normal-white-36px">Uan Theater</div>
-          <div class="sun-theater-u5aSJf roboto-normal-white-36px">Sun Theater</div>
-          <div class="bung-theater-u5aSJf roboto-normal-white-36px">Bung Theater</div>
-          <div class="cheetah-theater-u5aSJf roboto-normal-white-36px">Cheetah Theater</div>
-        </div>
-        <div class="view-oRDijm">
-          <div class="show-time-o3qS8v roboto-normal-white-64px">Show Time</div>
-          <img class="rectangle-56-o3qS8v" src="img/rectangle-55@1x.svg" />
-          <div class="x5-o3qS8v">
-            <div class="rectangle-57-xcwbYr border-1px-gargoyle-gas"></div>
-            <div class="x2130-xcwbYr roboto-normal-gold-40px">21.30</div>
-          </div>
-          <div class="x4-o3qS8v">
-            <div class="rectangle-57-xLJxOK border-1px-gargoyle-gas"></div>
-            <div class="x1900-xLJxOK roboto-normal-gold-40px">19.00</div>
-          </div>
-          <div class="x3-o3qS8v">
-            <div class="rectangle-57-90Rtgm border-1px-gargoyle-gas"></div>
-            <div class="x1630-90Rtgm roboto-normal-gold-40px">16.30</div>
-          </div>
-          <div class="x2-o3qS8v">
-            <div class="rectangle-57-vUybeN border-1px-gargoyle-gas"></div>
-            <div class="x1400-vUybeN roboto-normal-gold-40px">14.00</div>
-          </div>
-          <div class="x1-o3qS8v">
-            <div class="rectangle-57-OfNGdU border-1px-gargoyle-gas"></div>
-            <div class="x1130-OfNGdU roboto-normal-gold-40px">11.30</div>
-          </div>
-        </div>
-        <div class="top-oRDijm">
-          <div class="kamen-rider-beyond-generations-v3Z3bh roboto-normal-white-64px">
-            Kamen Rider: Beyond Generations
-          </div>
-          <img class="rectangle-38-v3Z3bh" src="img/rectangle-38-9@2x.png" />
-          <div class="group-19-v3Z3bh">
-            <div class="rectangle-49-EJJxkR"></div>
-            <div class="available-show-time-EJJxkR roboto-normal-black-36px">Available Show time</div>
-          </div>
-          <div class="genre-superhero-fantasy-v3Z3bh roboto-normal-white-24px">Genre : Superhero, Fantasy,</div>
-          <div class="movie-description-ka-v3Z3bh roboto-normal-white-24px">
-            Movie Description : Kamen Rider Revice, Saber, and their allies fight against a Kamen Rider from the future
-            while attempting to help a time-displaced scientist reconcile with his now elderly son. A once-in-a-century
-            transformation, beyond time.
-          </div>
-        </div>
-        <div class="navbar-oRDijm">
-          <div class="nav_background-zfA7Ae"></div>
-          <div class="promotions-zfA7Ae roboto-normal-white-36px">Promotions</div>
-          <div class="rectangle-36-zfA7Ae"></div>
-          <a href="homepage.html"><div class="main-zfA7Ae roboto-normal-white-36px">Main</div> </a>
-          <div class="rectangle-37-zfA7Ae"></div>
-          <div class="theater-zfA7Ae roboto-normal-white-36px">Theater</div>
-          <a href="movie-new.html"><div class="movie-zfA7Ae roboto-normal-white-36px">Movie</div> </a
-          ><a href="customer-information-for-customer-sun.html"> <div class="ellipse-1-zfA7Ae"></div></a
-          ><img class="movie-logo-zfA7Ae" src="img/movie-logo-8@2x.png" />
-        </div>
-        <div class="seat-oRDijm">
-          <div class="seat-kjhdSF roboto-normal-white-64px">Seat</div>
-          <img class="rectangle-56-kjhdSF" src="img/rectangle-55@1x.svg" />
-          <div class="seat-normal-1-kjhdSF">
-            <div class="f1-BxsEYH">
-              <div class="rectangle-58-bCnLyv"></div>
-              <div class="f1-bCnLyv roboto-normal-white-40px">F1</div>
+      </nav>
+    </section>
+    <!--Half Top Part-->
+    <div class="container-fluid">
+        <img id="Movie-Banner" src="img/movie/Atelophobia.png">
+        <a id="Movie-Name">Kamen Rider: Beyond Generations</a>
+        <a id="Movie-Genre">Genre : Superhero, Fantasy, </a>
+        <a id="Movie-Desc">Movie Description : Kamen Rider Revice, Saber, and their allies fight against 
+          a Kamen Rider from the future while attempting to help a time-displaced scientist reconcile 
+          with his now elderly son. A once-in-a-century transformation, beyond time.</a>
+        <a id="Big-Text1">Theater</a>
+        <a id="Big-Text2">Show Time</a>
+        <form id="Sign-Form" action="seat-booking.html">
+          <div class="row">
+            <div class="col-md-4">
+              <input type="radio" name="theaterNo" id="option1" autocomplete="off" value="T01">
+              <label for="option1">Ya Theater</label>
             </div>
-            <div class="f2-BxsEYH">
-              <div class="rectangle-58-LlcG6a"></div>
-              <div class="f2-LlcG6a roboto-normal-white-40px">F2</div>
+            <div class="col-md-4">
+              <input type="radio" name="theaterNo" id="option2" autocomplete="off" value="T02">
+              <label for="option2">Uan Theater</label>
             </div>
-            <div class="f3-BxsEYH">
-              <div class="rectangle-58-VUm0qx"></div>
-              <div class="f3-VUm0qx roboto-normal-white-40px">F3</div>
-            </div>
-            <div class="f4-BxsEYH">
-              <div class="rectangle-58-Xl3YAu"></div>
-              <div class="f4-Xl3YAu roboto-normal-white-40px">F4</div>
-            </div>
-            <div class="f5-BxsEYH">
-              <div class="rectangle-64-QmoUVU"></div>
-              <div class="f5-QmoUVU roboto-normal-white-40px">F5</div>
-            </div>
-            <div class="f6-BxsEYH">
-              <div class="f6-3nWAtr"></div>
-              <div class="f6-GDcvbN roboto-normal-white-40px">F6</div>
-            </div>
-            <div class="f7-BxsEYH">
-              <div class="rectangle-60-eRmeCW"></div>
-              <div class="f7-eRmeCW roboto-normal-white-40px">F7</div>
-            </div>
-            <div class="f8-BxsEYH">
-              <div class="rectangle-61-xHSIx1"></div>
-              <div class="f8-xHSIx1 roboto-normal-white-40px">F8</div>
-            </div>
-            <div class="f9-BxsEYH">
-              <div class="rectangle-62-wGQO2d"></div>
-              <div class="f9-wGQO2d roboto-normal-white-40px">F9</div>
-            </div>
-            <div class="f10-BxsEYH">
-              <div class="rectangle-63-xW8VJi"></div>
-              <div class="f10-xW8VJi roboto-normal-white-40px">F10</div>
-            </div>
-            <div class="f11-BxsEYH">
-              <img class="rectangle-59-Gt26Q6" src="img/rectangle-59@2x.svg" />
-              <div class="f11-Gt26Q6 roboto-normal-white-40px">F11</div>
-            </div>
-            <div class="f12-BxsEYH">
-              <img class="rectangle-60-UfTUYX" src="img/rectangle-59@2x.svg" />
-              <div class="f12-UfTUYX roboto-normal-white-40px">F12</div>
+            <div class="col-md-4">
+              <input type="radio" name="theaterNo" id="option3" autocomplete="off" value="T03">
+              <label for="option3">Sun Theater</label>
             </div>
           </div>
-          <div class="seat-normal-2-kjhdSF">
-            <div class="e1-gj7ohQ">
-              <div class="rectangle-58-01f8bG"></div>
-              <div class="e1-01f8bG roboto-normal-white-40px">E1</div>
+          <br>
+          <div class="row">
+            <div class="col-md-4">
+              <input type="radio" name="theaterNo" id="option4" autocomplete="off" value="T04">
+              <label for="option4">Cheetah Theater</label>
             </div>
-            <div class="e2-gj7ohQ">
-              <div class="rectangle-58-iF7Oe0"></div>
-              <div class="e2-iF7Oe0 roboto-normal-white-40px">E2</div>
-            </div>
-            <div class="e3-gj7ohQ">
-              <div class="rectangle-58-21Z75T"></div>
-              <div class="e3-21Z75T roboto-normal-white-40px">E3</div>
-            </div>
-            <div class="e4-gj7ohQ">
-              <div class="rectangle-58-q97aAc"></div>
-              <div class="e-q97aAc roboto-normal-white-40px">E4</div>
-            </div>
-            <div class="e5-gj7ohQ">
-              <div class="rectangle-64-bgdPnK"></div>
-              <div class="e5-bgdPnK roboto-normal-white-40px">E5</div>
-            </div>
-            <div class="e6-gj7ohQ">
-              <div class="f6-c1braN"></div>
-              <div class="e6-c1braN roboto-normal-white-40px">E6</div>
-            </div>
-            <div class="e7-gj7ohQ">
-              <div class="rectangle-60-wqhUnx"></div>
-              <div class="e-wqhUnx roboto-normal-white-40px">E7</div>
-            </div>
-            <div class="e8-gj7ohQ">
-              <div class="rectangle-61-Q0vLby"></div>
-              <div class="e8-Q0vLby roboto-normal-white-40px">E8</div>
-            </div>
-            <div class="e9-gj7ohQ">
-              <div class="rectangle-62-xNxmhb"></div>
-              <div class="e9-xNxmhb roboto-normal-white-40px">E9</div>
-            </div>
-            <div class="e10-gj7ohQ">
-              <div class="rectangle-63-tWGYlA"></div>
-              <div class="e10-tWGYlA roboto-normal-white-40px">E10</div>
-            </div>
-            <div class="e11-gj7ohQ">
-              <img class="rectangle-59-TuG69J" src="img/rectangle-59@2x.svg" />
-              <div class="e11-TuG69J roboto-normal-white-40px">E11</div>
-            </div>
-            <div class="e12-gj7ohQ">
-              <img class="rectangle-60-2xKXTx" src="img/rectangle-59@2x.svg" />
-              <div class="e12-2xKXTx roboto-normal-white-40px">E12</div>
+            <div class="col-md-4">
+              <input type="radio" name="theaterNo" id="option5" autocomplete="off" value="T05">
+              <label for="option5">Bung Theater</label>
             </div>
           </div>
-          <div class="seat-normal-3-kjhdSF">
-            <div class="d1-IPbxWI">
-              <div class="rectangle-58-AFvk0v"></div>
-              <div class="d1-AFvk0v roboto-normal-white-40px">D1</div>
+          <br><br><br><br><br><br>
+          <div class="row">
+            <div class="col-md-4">
+              <input type="radio" name="time" id="option1" autocomplete="off" value="A">
+              <label for="option1">11:30</label>
             </div>
-            <div class="d2-IPbxWI">
-              <div class="rectangle-58-0XeDpI"></div>
-              <div class="d2-0XeDpI roboto-normal-white-40px">D2</div>
+            <div class="col-md-4">
+              <input type="radio" name="time" id="option2" autocomplete="off" value="B">
+              <label for="option2">14:00</label>
             </div>
-            <div class="d3-IPbxWI">
-              <div class="rectangle-58-4pNL7U"></div>
-              <div class="d3-4pNL7U roboto-normal-white-40px">D3</div>
-            </div>
-            <div class="d4-IPbxWI">
-              <div class="rectangle-58-10iNXb"></div>
-              <div class="d4-10iNXb roboto-normal-white-40px">D4</div>
-            </div>
-            <div class="d5-IPbxWI">
-              <div class="rectangle-64-HCEOen"></div>
-              <div class="d5-HCEOen roboto-normal-white-40px">D5</div>
-            </div>
-            <div class="d6-IPbxWI">
-              <div class="f6-myUzn9"></div>
-              <div class="d6-myUzn9 roboto-normal-white-40px">D6</div>
-            </div>
-            <div class="d7-IPbxWI">
-              <div class="rectangle-60-xHk8Nh"></div>
-              <div class="d-xHk8Nh roboto-normal-white-40px">D7</div>
-            </div>
-            <div class="d8-IPbxWI">
-              <div class="rectangle-61-TdOfLr"></div>
-              <div class="d8-TdOfLr roboto-normal-white-40px">D8</div>
-            </div>
-            <div class="d9-IPbxWI">
-              <div class="rectangle-62-hXkRLk"></div>
-              <div class="d9-hXkRLk roboto-normal-white-40px">D9</div>
-            </div>
-            <div class="d10-IPbxWI">
-              <div class="rectangle-63-XjwvFj"></div>
-              <div class="d10-XjwvFj roboto-normal-white-40px">D10</div>
-            </div>
-            <div class="d11-IPbxWI">
-              <img class="rectangle-59-SwgefO" src="img/rectangle-59@2x.svg" />
-              <div class="d11-SwgefO roboto-normal-white-40px">D11</div>
-            </div>
-            <div class="d12-IPbxWI">
-              <img class="rectangle-60-A0qP50" src="img/rectangle-59@2x.svg" />
-              <div class="d13-A0qP50 roboto-normal-white-40px">D13</div>
+            <div class="col-md-4">
+              <input type="radio" name="time" id="option3" autocomplete="off" value="C">
+              <label for="option3">16:30</label>
             </div>
           </div>
-          <div class="seat-normal-4-kjhdSF">
-            <div class="c1-PnHFBs">
-              <div class="rectangle-58-QU3Qur"></div>
-              <div class="c1-QU3Qur roboto-normal-white-40px">C1</div>
+          <br>
+          <div class="row">
+            <div class="col-md-4">
+              <input type="radio" name="time" id="option4" autocomplete="off" value="E">
+              <label for="option4">19:00</label>
             </div>
-            <div class="c2-PnHFBs">
-              <div class="rectangle-58-mIwvWC"></div>
-              <div class="c2-mIwvWC roboto-normal-white-40px">C2</div>
-            </div>
-            <div class="c3-PnHFBs">
-              <div class="rectangle-58-0YLbxB"></div>
-              <div class="c3-0YLbxB roboto-normal-white-40px">C3</div>
-            </div>
-            <div class="c4-PnHFBs">
-              <div class="rectangle-58-BdtfRy"></div>
-              <div class="c4-BdtfRy roboto-normal-white-40px">C4</div>
-            </div>
-            <div class="c5-PnHFBs">
-              <div class="rectangle-64-01oiVo"></div>
-              <div class="c5-01oiVo roboto-normal-white-40px">C5</div>
-            </div>
-            <div class="c6-PnHFBs">
-              <div class="f6-zbHHKm"></div>
-              <div class="c6-zbHHKm roboto-normal-white-40px">C6</div>
-            </div>
-            <div class="c7-PnHFBs">
-              <div class="rectangle-60-5DVriF"></div>
-              <div class="c7-5DVriF roboto-normal-white-40px">C7</div>
-            </div>
-            <div class="c8-PnHFBs">
-              <div class="rectangle-61-M1rgvW"></div>
-              <div class="c8-M1rgvW roboto-normal-white-40px">C8</div>
-            </div>
-            <div class="c9-PnHFBs">
-              <div class="rectangle-62-Yb1qVN"></div>
-              <div class="c9-Yb1qVN roboto-normal-white-40px">C9</div>
-            </div>
-            <div class="c10-PnHFBs">
-              <div class="rectangle-63-AeNSTj"></div>
-              <div class="c10-AeNSTj roboto-normal-white-40px">C10</div>
-            </div>
-            <div class="c11-PnHFBs">
-              <img class="rectangle-59-G6DQ5K" src="img/rectangle-59-3@2x.svg" />
-              <div class="c11-G6DQ5K roboto-normal-white-40px">C11</div>
-            </div>
-            <div class="c12-PnHFBs">
-              <img class="rectangle-60-qI9tY0" src="img/rectangle-59-3@2x.svg" />
-              <div class="c12-qI9tY0 roboto-normal-white-40px">C12</div>
+            <div class="col-md-4">
+              <input type="radio" name="time" id="option5" autocomplete="off" value="F">
+              <label for="option5">21:30</label>
             </div>
           </div>
-          <div class="seat-normal-5-kjhdSF">
-            <div class="b1-24U5XX">
-              <div class="rectangle-58-hB2pJ8"></div>
-              <div class="b1-hB2pJ8 roboto-normal-white-40px">B1</div>
-            </div>
-            <div class="b2-24U5XX">
-              <div class="rectangle-58-4ytwYG"></div>
-              <div class="b2-4ytwYG roboto-normal-white-40px">B2</div>
-            </div>
-            <div class="b3-24U5XX">
-              <div class="rectangle-58-vDRb2A"></div>
-              <div class="b3-vDRb2A roboto-normal-white-40px">B3</div>
-            </div>
-            <div class="b4-24U5XX">
-              <div class="rectangle-58-HtwRV5"></div>
-              <div class="b4-HtwRV5 roboto-normal-white-40px">B4</div>
-            </div>
-            <div class="b5-24U5XX">
-              <div class="rectangle-64-CKGrFT"></div>
-              <div class="b5-CKGrFT roboto-normal-white-40px">B5</div>
-            </div>
-            <div class="b6-24U5XX">
-              <div class="f6-e4lFfR"></div>
-              <div class="b6-e4lFfR roboto-normal-white-40px">B6</div>
-            </div>
-            <div class="b7-24U5XX">
-              <div class="rectangle-60-VfHqMW"></div>
-              <div class="b7-VfHqMW roboto-normal-white-40px">B7</div>
-            </div>
-            <div class="b8-24U5XX">
-              <div class="rectangle-61-rxegCx"></div>
-              <div class="b8-rxegCx roboto-normal-white-40px">B8</div>
-            </div>
-            <div class="b9-24U5XX">
-              <div class="rectangle-62-XhDmpd"></div>
-              <div class="b9-XhDmpd roboto-normal-white-40px">B9</div>
-            </div>
-            <div class="b10-24U5XX">
-              <div class="rectangle-63-9jwrQ1"></div>
-              <div class="b10-9jwrQ1 roboto-normal-white-40px">B10</div>
-            </div>
-            <div class="b11-24U5XX">
-              <img class="rectangle-59-Jh45rz" src="img/rectangle-59-3@2x.svg" />
-              <div class="b11-Jh45rz roboto-normal-white-40px">B11</div>
-            </div>
-            <div class="b12-24U5XX">
-              <img class="rectangle-60-VxlHC4" src="img/rectangle-59-3@2x.svg" />
-              <div class="b12-VxlHC4 roboto-normal-white-40px">B12</div>
-            </div>
-          </div>
-          <div class="seat-normal-6-kjhdSF">
-            <div class="a1-p0xO6s">
-              <div class="rectangle-58-op4bM4"></div>
-              <div class="a1-op4bM4 roboto-normal-white-40px">A1</div>
-            </div>
-            <div class="a2-p0xO6s">
-              <div class="rectangle-58-g46sRu"></div>
-              <div class="a2-g46sRu roboto-normal-white-40px">A2</div>
-            </div>
-            <div class="a3-p0xO6s">
-              <div class="rectangle-58-pVYARk"></div>
-              <div class="a3-pVYARk roboto-normal-white-40px">A3</div>
-            </div>
-            <div class="a4-p0xO6s">
-              <div class="rectangle-58-INOJYx"></div>
-              <div class="a4-INOJYx roboto-normal-white-40px">A4</div>
-            </div>
-            <div class="a5-p0xO6s">
-              <div class="rectangle-64-VbsW6u"></div>
-              <div class="a5-VbsW6u roboto-normal-white-40px">A5</div>
-            </div>
-            <div class="a6-p0xO6s">
-              <div class="f6-XVY81k"></div>
-              <div class="a6-XVY81k roboto-normal-white-40px">A6</div>
-            </div>
-            <div class="a7-p0xO6s">
-              <div class="rectangle-60-xpSr0x"></div>
-              <div class="a7-xpSr0x roboto-normal-white-40px">A7</div>
-            </div>
-            <div class="a8-p0xO6s">
-              <div class="rectangle-61-vQdAEK"></div>
-              <div class="a8-vQdAEK roboto-normal-white-40px">A8</div>
-            </div>
-            <div class="a9-p0xO6s">
-              <div class="rectangle-62-xjqVmj"></div>
-              <div class="a9-xjqVmj roboto-normal-white-40px">A9</div>
-            </div>
-            <div class="a10-p0xO6s">
-              <div class="rectangle-63-qw2P22"></div>
-              <div class="a10-qw2P22 roboto-normal-white-40px">A10</div>
-            </div>
-            <div class="a11-p0xO6s">
-              <img class="rectangle-59-eWjEjs" src="img/rectangle-59-5@2x.svg" />
-              <div class="a11-eWjEjs roboto-normal-white-40px">A11</div>
-            </div>
-            <div class="a12-p0xO6s">
-              <img class="rectangle-60-j88x4X" src="img/rectangle-59-5@2x.svg" />
-              <div class="a12-j88x4X roboto-normal-white-40px">A12</div>
-            </div>
-          </div>
-        </div>
-      </div>
+          <input type="submit" class="ghost-button" value="booking">
+        </form>
+        <a href="all-movie-info.html"><button type="button" class="ghost-button2">Back</button></a>
+        <div class="container" id="Linear-BG1"></div>
+        <div class="container" id="Linear-BG2"></div>
+      <img src="img/background/line-bg-dark.png" style="width: 100%">
+      <img src="img/background/line-bg-dark.png" style="width: 100%">
     </div>
   </body>
 </html>
