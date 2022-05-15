@@ -38,8 +38,8 @@ fieldset {
   transition: all 0.1s ease-in-out;
 }
 .ghost-button {
-  background-color: #33aafa;
-  color: #ffffff;
+  background-color: #e9fa33;
+  color: #000000;
   border:2px solid #ddd;
   padding: 10px 10px; 
   margin-top: 20px;

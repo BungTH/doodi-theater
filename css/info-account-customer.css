@@ -1,0 +1,158 @@
+/*-----Lable-----*/
+
+#Top-Lable {
+  font-size: 2.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 15%;
+  left: 50px;
+}
+#Lable1 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 30%;
+  left: 50px;
+}
+#Lable2 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 40%;
+  left: 50px;
+}
+#Lable3 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 50%;
+  left: 50px;
+}
+#Lable4 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 60%;
+  left: 50px;
+}
+#Lable5 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 70%;
+  left: 50px;
+}
+#Lable6 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 80%;
+  left: 50px;
+}
+.ghost-button {
+  background-color: #faf033;
+  color: #000000;
+  border:2px solid #ddd;
+  padding: 10px 10px; 
+  margin-top: 20px;
+  min-width: 200px;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transform: translate(505%, 500%);
+  transition: all 0.1s ease-in-out;
+}
+.ghost-button:hover {
+  border:2px solid #515151;
+}
+
+/*-----Background Pic-----*/
+
+.container-fluid {
+  position: relative;
+  top: 15%;
+}
+#User-Logo {
+  position: absolute;
+  width: auto;
+  height: 50%;
+  top: 30%;
+  right: 250px;
+  border: 5px solid #ffffff;
+}
+#Long-Bar1 {
+  position: absolute;
+  top: 30%;
+  left: 250px;
+}
+#Long-Bar2 {
+  position: absolute;
+  top: 40%;
+  left: 250px;
+}
+#Long-Bar3 {
+  position: absolute;
+  top: 50%;
+  left: 250px;
+}
+#Long-Bar4 {
+  position: absolute;
+  top: 60%;
+  left: 250px;
+}
+#Long-Bar5 {
+  position: absolute;
+  top: 70%;
+  left: 250px;
+}
+#Long-Bar6 {
+  position: absolute;
+  top: 80%;
+  left: 250px;
+}
+
+/*-----Info From Backend-----*/
+
+#Info1 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 30%;
+  left: 250px;
+}
+#Info2 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 40%;
+  left: 250px;
+}
+#Info3 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 50%;
+  left: 250px;
+}
+#Info4 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 60%;
+  left: 250px;
+}
+#Info5 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 70%;
+  left: 250px;
+}
+#Info6 {
+  font-size: 1.5em;
+  position: absolute;
+  color: #ffffff;
+  top: 80%;
+  left: 250px;
+}
